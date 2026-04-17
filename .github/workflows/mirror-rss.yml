@@ -1,10 +1,8 @@
 name: Mirror RSS from Site
-
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Каждые 15 минут
-  workflow_dispatch:        # Ручной запуск
-
+    - cron: '*/15 * * * *'   # Каждые 15 минут
+  workflow_dispatch:          # Ручной запуск
 jobs:
   mirror-rss:
     runs-on: ubuntu-latest
@@ -12,36 +10,65 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0       # Полная история для безопасного pull
+
       - name: Fetch RSS from Site
+        id: fetch
         run: |
           mkdir -p data
-          curl -sSL --retry 3 --retry-delay 5 \
+          # Запрос с таймаутом и проверкой HTTP-статуса
+          http_code=$(curl -sSL --retry 3 --retry-delay 5 --max-time 30 \
             -H 'User-Agent: GitHub-Action-RSS-Mirror/1.0' \
-            https://sochiautoparts.ru/rss.xml \
-            -o data/rss.xml
-      
-      - name: Validate RSS
-        run: |
-          if [ ! -s data/rss.xml ]; then
-            echo "❌ RSS file is empty or fetch failed"
+            -w '%{http_code}' \
+            -o data/rss.xml.tmp \
+            https://sochiautoparts.ru/rss.xml)
+          
+          if [ "$http_code" -ne 200 ]; then
+            echo "❌ HTTP error: $http_code"
             exit 1
           fi
-          echo "✅ RSS fetched successfully ($(wc -c < data/rss.xml) bytes)"
-      
+          
+          # Проверка, что файл не пуст
+          if [ ! -s data/rss.xml.tmp ]; then
+            echo "❌ Downloaded file is empty"
+            exit 1
+          fi
+          
+          # Базовая XML-валидация (проверяем первый тег)
+          if ! grep -q '^<?xml' data/rss.xml.tmp; then
+            echo "❌ File does not look like XML"
+            exit 1
+          fi
+          
+          # Проверка размера файла (максимум 1 МБ)
+          file_size=$(wc -c < data/rss.xml.tmp)
+          if [ "$file_size" -gt 1048576 ]; then
+            echo "❌ RSS file too large: $file_size bytes (limit 1 MB)"
+            exit 1
+          fi
+          
+          mv data/rss.xml.tmp data/rss.xml
+          echo "✅ RSS fetched successfully ($file_size bytes)"
+
       - name: Commit and Push RSS
         run: |
           git config user.name 'github-actions'
           git config user.email 'actions@github.com'
+          
+          # Получаем последние изменения из удаленной ветки
+          git fetch origin main
+          git checkout main
+          git merge --no-edit origin/main || {
+            echo "❌ Merge conflict detected"
+            exit 1
+          }
+          
           git add data/rss.xml
-          
-          # Синхронизируем с remote перед пушем
-          git pull --rebase origin main
-          
           if git diff --staged --quiet; then
             echo "No changes to RSS"
           else
-            git commit -m "📡 Mirror RSS from site ($(date -u +%Y-%m-%d\ %H:%M:%S\ UTC))"
-            git push
+            git commit -m "Mirror RSS from site ($(date -u +%Y-%m-%d\ %H:%M:%S\ UTC))"
+            git push origin main
             echo "✅ RSS updated in repository"
           fi
