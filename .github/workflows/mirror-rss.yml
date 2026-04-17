@@ -15,6 +15,7 @@ jobs:
       
       - name: Fetch RSS from Site
         run: |
+          mkdir -p data
           curl -sSL --retry 3 --retry-delay 5 \
             -H "User-Agent: GitHub-Action-RSS-Mirror/1.0" \
             https://sochiautoparts.ru/rss.xml \
@@ -26,11 +27,7 @@ jobs:
             echo "❌ RSS file is empty or fetch failed"
             exit 1
           fi
-          # Проверка на валидный XML
-          if ! xmllint --noout data/rss.xml 2>/dev/null; then
-            echo "⚠️  RSS is not valid XML, but saving anyway"
-          fi
-          echo "✅ RSS fetched successfully"
+          echo "✅ RSS fetched successfully ($(wc -c < data/rss.xml) bytes)"
       
       - name: Commit and Push RSS
         run: |
@@ -38,9 +35,4 @@ jobs:
           git config user.email "actions@github.com"
           git add data/rss.xml
           if git diff --staged --quiet; then
-            echo "No changes to RSS"
-          else
-            git commit -m "📡 Mirror RSS from site ($(date -u +%Y-%m-%d\ %H:%M:%S\ UTC))"
-            git push
-            echo "✅ RSS updated in repository"
-          fi
+            echo "No changes
