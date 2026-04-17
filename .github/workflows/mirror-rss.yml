@@ -17,7 +17,7 @@ jobs:
         run: |
           mkdir -p data
           curl -sSL --retry 3 --retry-delay 5 \
-            -H "User-Agent: GitHub-Action-RSS-Mirror/1.0" \
+            -H 'User-Agent: GitHub-Action-RSS-Mirror/1.0' \
             https://sochiautoparts.ru/rss.xml \
             -o data/rss.xml
       
@@ -31,8 +31,13 @@ jobs:
       
       - name: Commit and Push RSS
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name 'github-actions'
+          git config user.email 'actions@github.com'
           git add data/rss.xml
           if git diff --staged --quiet; then
-            echo "No changes
+            echo "No changes to RSS"
+          else
+            git commit -m "📡 Mirror RSS from site ($(date -u +%Y-%m-%d\ %H:%M:%S\ UTC))"
+            git push
+            echo "✅ RSS updated in repository"
+          fi
