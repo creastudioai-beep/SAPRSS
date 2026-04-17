@@ -1,1 +1,611 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'KrliYWpBxeMAWTNop_8mgvECeDvzDfcjxFmfrS7soPM-1776452220-1.2.1.1-yxHgPWI7ZAvcE71HTk_D1fh6PDGs2ePCzobBvV.IZcd4RV0qURaKKtX1tYPAg68y',cITimeS: '1776452220',cRay: '9edda72c6918a8a1',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/rss.xml?__cf_chl_tk=xwshABvD8WT885HGcD4Tprv9Rhw4MWLVKXRAruM2A7M-1776452220-1.0.1.1-kd2z7TctUYRLR8UeqBWSr_zso7R3U7FCXntJutVdqKg",cvId: '3',cZone: 'sochiautoparts.ru',fa:"/rss.xml?__cf_chl_f_tk=xwshABvD8WT885HGcD4Tprv9Rhw4MWLVKXRAruM2A7M-1776452220-1.0.1.1-kd2z7TctUYRLR8UeqBWSr_zso7R3U7FCXntJutVdqKg",md: 'xBBH5xcaxmhUjMZuU92F.YPW9tRbNnoehCiDhpRlKL0-1776452220-1.2.1.1-cau4AdBJ0n9RtsAkKFwR7B25Xd_E_fxOfn1Rv8UE_d66MHWkRdKba_fdxOFyJPC51aiGz9sDuYFHWITpX6s4vXoPdL6xC.vucfV9BFM5izoMYx8TXMWs1G.Ca9ceeBL9Etbk2CQBbeO_mUWVIv3T50KudYuJPHiaLBEaIXsJMGHdYsHcXiHrIyjcIXWh741oy.eRaPjS48Ii31alB0twFV03Fu.fF_1_tFIjJop40p5j.rIwIFvB6Zu1iP5Y3eCzM4KhhPwxcCmTRfvnf8BY2UQu4nCHR1vz0c3Svy5vWM8hJBVdW6XXRDBWY6Oa7t5J8g58w9vg9YbudS1DbKm1.MYZkHDMGsFtIPwMuG01Q7c27sJ6pwWzgnj1GNQE3xYyzZZ5knL9fDj6SAhj5BiR1WS2SAFLV1YykzUtm8IViClOCLqjECojPrTIXGAAgV034LUeYpZY8a5fMvL7rCI.wR8FaGQyPnHnU3HgLRI97Ap7ZSgOOMDadltK7qMhVoMDh4r6G3gfndQdoN56VsADZ3AbhtE9ROy3fHWp0UtJL11gWTcjhWkSkXWdNUWUzmXiKxDWLBkqCTGkNibgKQOKz0aC8EmV5wQ84TV..iyB56tBA5zlaEQvBF.oH5gWsZ0uH6qQt42ZMNz8GnugILx4Rl8lOiE6Iv2IjAzsO3NLtC9k8_MyPwsZMWbnZ5WyIQ_BaiHNF90YjZsdb5EDoxEh3WBGwO6t7j5i5NpsbC3BlB1BktysiGXmuUDFulH9yp8O1SVZF4P7ElVN04Lb9yXPdjaDhpRJEE_1KCd_Q_gHdWxf_A1h9Xi1bz8Hx4Eedx6CYInjANmwnzzQ2v_9J0z4bw',mdrd: 'syaUwdwO95emJDKeG3ag4n1xtwOy_.Tap_ryHUszZ9k-1776452220-1.2.1.1-IH.R1wRm1TV9AijpJtw2LsNIEVcnMbTQlAW5s1NYZa8ABnynN89vZXF3qXhQNV8r2ywP6vHhlAbyiH2RrGzicCDziZeChNoJX2ppzSGjkncbhh727ZvhvpdbfbrLBxeTUki7vKDOfizc8NkMnD8SWadBLKNhLqitUmLJTQAz11L2JJN2v5Fok5ZyWL9IHMady7pWfnlpj8YCiVR9lWFNxZ01DXx2KqBKyAUJXdVcX6jNtfNoLMJ35Jo_bopgP5HtE8v5vRlLhS0SxlX1lbYIkLgKDk_cWJY.neQz5UmSiZk',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9edda72c6918a8a1';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/rss.xml?__cf_chl_rt_tk=xwshABvD8WT885HGcD4Tprv9Rhw4MWLVKXRAruM2A7M-1776452220-1.0.1.1-kd2z7TctUYRLR8UeqBWSr_zso7R3U7FCXntJutVdqKg"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</title>
+<link>https://sochiautoparts.ru</link>
+<description>Автомобильные новости, обзоры и тест-драйвы от SOCHIAUTOPARTS. 30 публикаций в архиве.</description>
+<language>ru</language>
+<lastBuildDate>Fri, 17 Apr 2026 19:24:44 GMT</lastBuildDate>
+<pubDate>Fri, 17 Apr 2026 19:24:44 GMT</pubDate>
+<ttl>10</ttl>
+<generator>SOCHIAUTOPARTS Cloudflare Worker v88.5-FIXED-SIGNATURE</generator>
+<managingEditor>info@sochiautoparts.ru (SOCHIAUTOPARTS)</managingEditor>
+<webMaster>info@sochiautoparts.ru (SOCHIAUTOPARTS)</webMaster>
+<image>
+<url>https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg</url>
+<title>SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</title>
+<link>https://sochiautoparts.ru</link>
+<width>640</width>
+<height>640</height>
+</image>
+<copyright>© 2026 SOCHIAUTOPARTS. All rights reserved.</copyright>
+<category>Autos</category>
+<item>
+<title>https://goo.su/QRvFB
+Интернет-магазин производител...</title>
+<link>https://sochiautoparts.ru/post/86444</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86444</guid>
+<pubDate>Fri, 17 Apr 2026 18:13:01 GMT</pubDate>
+<description><![CDATA[<a href="https://goo.su/QRvFB" target="_blank" rel="nofollow">https://goo.su/QRvFB</a><br>Интернет-магазин производителя смазочных материалов под брендом ЛУКОЙЛ.<br>В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.<br>Есть онлайн подборщик масел, в котором можно определиться с выбором.<br>Операторы линии поддержки оперативно ответят на вопросы.<br>100% оригинальные товары<br>Доставка по все России<br>Бесплатная доставка от 5 литров<br>Прием онлайн заказов 24/7<br>👇<br>👇<br>👇<br><a href="https://goo.su/QRvFB" target="_blank" rel="nofollow">https://goo.su/QRvFB</a>]]></description>
+<content:encoded><![CDATA[<a href="https://goo.su/QRvFB" target="_blank" rel="nofollow">https://goo.su/QRvFB</a><br>Интернет-магазин производителя смазочных материалов под брендом ЛУКОЙЛ.<br>В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.<br>Есть онлайн подборщик масел, в котором можно определиться с выбором.<br>Операторы линии поддержки оперативно ответят на вопросы.<br>100% оригинальные товары<br>Доставка по все России<br>Бесплатная доставка от 5 литров<br>Прием онлайн заказов 24/7<br>👇<br>👇<br>👇<br><a href="https://goo.su/QRvFB" target="_blank" rel="nofollow">https://goo.su/QRvFB</a><br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>интернет</category><category>магазин</category><category>производителя</category><category>смазочных</category><category>материалов</category>
+<media:content url="https://cdn4.telesco.pe/file/uT4CWXl-QCbcyWiolSUfLUodDjiMNqIuDolTg2kXk37Bs7BrfWjwYa32gmjTDC8DgUHBeqacCBKwj-uLOXsTaYiyHvJUbtb_T26b-oAJJyIY3doD37Nk18obcC7w2p2xEmb1NEJZX2NAnsqFwoc2dS_HAzY_Jzj64IHhOR4Kn65rEEL-WcJoloGbaRKdpNwWIzgl6e-zGEXPNCcdCd5rejXruiyTsiGihDKg24O8otVpqXIsLyDOJUNBGSrXLy6nLXg3SdwvjxDToySRNlEvF3dX5mSsswQRzXbMWy3-W8M1xpyPyl_x6AoNOZ0Ati1wF2nt3_ei4Kj2Ge7FWMmJ9w.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">https://goo.su/QRvFB
+Интернет-магазин производител...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/uT4CWXl-QCbcyWiolSUfLUodDjiMNqIuDolTg2kXk37Bs7BrfWjwYa32gmjTDC8DgUHBeqacCBKwj-uLOXsTaYiyHvJUbtb_T26b-oAJJyIY3doD37Nk18obcC7w2p2xEmb1NEJZX2NAnsqFwoc2dS_HAzY_Jzj64IHhOR4Kn65rEEL-WcJoloGbaRKdpNwWIzgl6e-zGEXPNCcdCd5rejXruiyTsiGihDKg24O8otVpqXIsLyDOJUNBGSrXLy6nLXg3SdwvjxDToySRNlEvF3dX5mSsswQRzXbMWy3-W8M1xpyPyl_x6AoNOZ0Ati1wF2nt3_ei4Kj2Ge7FWMmJ9w.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/uT4CWXl-QCbcyWiolSUfLUodDjiMNqIuDolTg2kXk37Bs7BrfWjwYa32gmjTDC8DgUHBeqacCBKwj-uLOXsTaYiyHvJUbtb_T26b-oAJJyIY3doD37Nk18obcC7w2p2xEmb1NEJZX2NAnsqFwoc2dS_HAzY_Jzj64IHhOR4Kn65rEEL-WcJoloGbaRKdpNwWIzgl6e-zGEXPNCcdCd5rejXruiyTsiGihDKg24O8otVpqXIsLyDOJUNBGSrXLy6nLXg3SdwvjxDToySRNlEvF3dX5mSsswQRzXbMWy3-W8M1xpyPyl_x6AoNOZ0Ati1wF2nt3_ei4Kj2Ge7FWMmJ9w.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Kia и Genesis отзывают в США из-за риска утечки то...</title>
+<link>https://sochiautoparts.ru/post/86439</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86439</guid>
+<pubDate>Fri, 17 Apr 2026 18:09:57 GMT</pubDate>
+<description><![CDATA[Kia и Genesis отзывают в США из-за риска утечки топлива<br>⚠️<br>🇺🇸<br>В США отзывают Kia Carnival и четыре модели Genesis. Под отзыв попадают:<br>🚗<br>• Kia Carnival (2022–2026) — 141 032 шт.<br>• Genesis G80 (2021–2025) — 32 184 шт.<br>• Genesis G90 (2023–2025) — 3 942 шт.<br>• Genesis GV70 (2022–2026) — 48 634 шт.<br>• Genesis GV80 (2021–2025) — 10 000 шт.<br>Причина — ослабление соединений топливной трубки с рампой<br>⛽<br>🔧<br>. Дилеры проверят крепёж и при необходимости заменят трубки.<br>✅<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Kia и Genesis отзывают в США из-за риска утечки топлива<br>⚠️<br>🇺🇸<br>В США отзывают Kia Carnival и четыре модели Genesis. Под отзыв попадают:<br>🚗<br>• Kia Carnival (2022–2026) — 141 032 шт.<br>• Genesis G80 (2021–2025) — 32 184 шт.<br>• Genesis G90 (2023–2025) — 3 942 шт.<br>• Genesis GV70 (2022–2026) — 48 634 шт.<br>• Genesis GV80 (2021–2025) — 10 000 шт.<br>Причина — ослабление соединений топливной трубки с рампой<br>⛽<br>🔧<br>. Дилеры проверят крепёж и при необходимости заменят трубки.<br>✅<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>kia</category><category>genesis</category><category>отзывают</category><category>сша</category><category>риска</category>
+<media:content url="https://cdn4.telesco.pe/file/Apgh86rgW8v0VQaUH6DLmnEfaPQVQZBcB6CP6EHJg46SdQ3r78nUFsnHTjQYkFUXK5qC7r3e8iBn0zrmqs9DS2pES6NM_ocsYkC2oj3G43KFrnB7V7gNIvwfhWMojoiK-bKO5UrIVlqbDx4rb-3kliy08zIL0lyY9wQn98mFX1ySlq9wnh7mMJGLYeSHDC0EXiZtJ9i5dB_ZnfsyYpQ4HQfqVS_aaTn2II3yYOPPHoEAAZ--igLTL6EDYxSMhFkmdMlmCMwCEvhh30ZSFdyCaAtrIkW6_c9s1kTGQ-FG1UMdaNJoMPYPkruhRYtsM8DEhFcbvNpQCYBMcNt4TKR5Hg.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Kia и Genesis отзывают в США из-за риска утечки то...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/Apgh86rgW8v0VQaUH6DLmnEfaPQVQZBcB6CP6EHJg46SdQ3r78nUFsnHTjQYkFUXK5qC7r3e8iBn0zrmqs9DS2pES6NM_ocsYkC2oj3G43KFrnB7V7gNIvwfhWMojoiK-bKO5UrIVlqbDx4rb-3kliy08zIL0lyY9wQn98mFX1ySlq9wnh7mMJGLYeSHDC0EXiZtJ9i5dB_ZnfsyYpQ4HQfqVS_aaTn2II3yYOPPHoEAAZ--igLTL6EDYxSMhFkmdMlmCMwCEvhh30ZSFdyCaAtrIkW6_c9s1kTGQ-FG1UMdaNJoMPYPkruhRYtsM8DEhFcbvNpQCYBMcNt4TKR5Hg.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/Apgh86rgW8v0VQaUH6DLmnEfaPQVQZBcB6CP6EHJg46SdQ3r78nUFsnHTjQYkFUXK5qC7r3e8iBn0zrmqs9DS2pES6NM_ocsYkC2oj3G43KFrnB7V7gNIvwfhWMojoiK-bKO5UrIVlqbDx4rb-3kliy08zIL0lyY9wQn98mFX1ySlq9wnh7mMJGLYeSHDC0EXiZtJ9i5dB_ZnfsyYpQ4HQfqVS_aaTn2II3yYOPPHoEAAZ--igLTL6EDYxSMhFkmdMlmCMwCEvhh30ZSFdyCaAtrIkW6_c9s1kTGQ-FG1UMdaNJoMPYPkruhRYtsM8DEhFcbvNpQCYBMcNt4TKR5Hg.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Audi готовит 640-сильный RS Q5
+🚗
+💨
+Прототип уже ...</title>
+<link>https://sochiautoparts.ru/post/86436</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86436</guid>
+<pubDate>Fri, 17 Apr 2026 18:09:12 GMT</pubDate>
+<description><![CDATA[Audi готовит 640-сильный RS Q5<br>🚗<br>💨<br>Прототип уже тестируют в Германии<br>🇩🇪<br>. Силовая установка от RS5 (V6 твин-турбо + электромотор)<br>⚙️<br>⚡<br>, на электротяге можно проехать более 80 км.<br>🛣️<br>🔋<br>Ожидаются спортивные сиденья<br>🪑<br>, карбон в салоне<br>💎<br>, пневмоподвеска<br>🎈<br>, полный привод<br>🔄<br>и опционные карбоново-керамические тормоза<br>🛑<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Audi готовит 640-сильный RS Q5<br>🚗<br>💨<br>Прототип уже тестируют в Германии<br>🇩🇪<br>. Силовая установка от RS5 (V6 твин-турбо + электромотор)<br>⚙️<br>⚡<br>, на электротяге можно проехать более 80 км.<br>🛣️<br>🔋<br>Ожидаются спортивные сиденья<br>🪑<br>, карбон в салоне<br>💎<br>, пневмоподвеска<br>🎈<br>, полный привод<br>🔄<br>и опционные карбоново-керамические тормоза<br>🛑<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>audi</category><category>готовит</category><category>640</category><category>сильный</category><category>прототип</category>
+<media:content url="https://cdn4.telesco.pe/file/BR7vyTzkklIVyx20iTUoB-Po-Y05neACc4bV-6YC3pyGiFmuIqPtqEtmug4VoWW4KKuBgDghJmDmIRtcH8EPUcqTjvRBfgRPqg3anOBNLlqGe8TVRptmno5dcN8WKOcwD2vprxI6528WsUkO1x3VgUOSV3YFtL04PEQapPGhtZUi7D3dry-vPeR-BPm1kZLmOq4iKsYJKpZjQPeu5Vqqx7S3K1vZvZgxFJ5ZtotMMNoIJKHw87uevehnL03LAhiRwmCefprgBpqWGSDdVIBj62yJT9Fx7e1HKX3jiPkZqSIAZRSXyc09W0s0mvzebWhMCH4OKEhiKYGk1cdH9OFOqQ.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Audi готовит 640-сильный RS Q5
+🚗
+💨
+Прототип уже ...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/BR7vyTzkklIVyx20iTUoB-Po-Y05neACc4bV-6YC3pyGiFmuIqPtqEtmug4VoWW4KKuBgDghJmDmIRtcH8EPUcqTjvRBfgRPqg3anOBNLlqGe8TVRptmno5dcN8WKOcwD2vprxI6528WsUkO1x3VgUOSV3YFtL04PEQapPGhtZUi7D3dry-vPeR-BPm1kZLmOq4iKsYJKpZjQPeu5Vqqx7S3K1vZvZgxFJ5ZtotMMNoIJKHw87uevehnL03LAhiRwmCefprgBpqWGSDdVIBj62yJT9Fx7e1HKX3jiPkZqSIAZRSXyc09W0s0mvzebWhMCH4OKEhiKYGk1cdH9OFOqQ.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/BR7vyTzkklIVyx20iTUoB-Po-Y05neACc4bV-6YC3pyGiFmuIqPtqEtmug4VoWW4KKuBgDghJmDmIRtcH8EPUcqTjvRBfgRPqg3anOBNLlqGe8TVRptmno5dcN8WKOcwD2vprxI6528WsUkO1x3VgUOSV3YFtL04PEQapPGhtZUi7D3dry-vPeR-BPm1kZLmOq4iKsYJKpZjQPeu5Vqqx7S3K1vZvZgxFJ5ZtotMMNoIJKHw87uevehnL03LAhiRwmCefprgBpqWGSDdVIBj62yJT9Fx7e1HKX3jiPkZqSIAZRSXyc09W0s0mvzebWhMCH4OKEhiKYGk1cdH9OFOqQ.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Pirelli готовит подорожание шин из-за ближневосточ...</title>
+<link>https://sochiautoparts.ru/post/86435</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86435</guid>
+<pubDate>Fri, 17 Apr 2026 18:08:26 GMT</pubDate>
+<description><![CDATA[Pirelli готовит подорожание шин из-за ближневосточного кризиса<br>🚗<br>📈<br>Итальянский шинный гигант Pirelli планирует поднять цены, сократить расходы и перестроить логистику из-за обострения ситуации на Ближнем Востоке<br>🌍<br>⚠️<br>.<br>Производство шин Pirelli также ведется в России на заводах в Кирове и Воронеже<br>🇷🇺<br>🏭<br>.<br>В 2025 году выручка Pirelli достигла 6,776 млрд евро, чистая прибыль — 530,7 млн евро (+5,9% к 2024)<br>💶<br>📊<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Pirelli готовит подорожание шин из-за ближневосточного кризиса<br>🚗<br>📈<br>Итальянский шинный гигант Pirelli планирует поднять цены, сократить расходы и перестроить логистику из-за обострения ситуации на Ближнем Востоке<br>🌍<br>⚠️<br>.<br>Производство шин Pirelli также ведется в России на заводах в Кирове и Воронеже<br>🇷🇺<br>🏭<br>.<br>В 2025 году выручка Pirelli достигла 6,776 млрд евро, чистая прибыль — 530,7 млн евро (+5,9% к 2024)<br>💶<br>📊<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>pirelli</category><category>готовит</category><category>подорожание</category><category>шин</category><category>ближневосточного</category>
+<media:content url="https://cdn4.telesco.pe/file/T7ladKLrt0LSCj4Sky4yjYoY9qBzZ_H5SjzX205IzmaskRlS2wgcA5YijzT_Fyy48dTJAFwpiWS-2HtpDdwO8odSmOBws_HJLRiSn0EBRu8FL1VHosqReicsmjyGxwmdQ1s7Wa9ChclS33S7O4Dzf0BBK_dXt0xncJzoyx11u3cx-ZLTOD2A9Uz7NCx9tyVREGE0TW5fO869rQETidHVELQo931bkwCmCH1g7C-NaLSYk5IjwgVCuQQeKVklI_0XES6WRL6DNrfDLu9nGWdisVO-HEUE_MIg4ulJjoyJHHxgRW5gCLnEIV7GS9WN9nok29rvoOL1b5NdoEUq6VvF0g.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Pirelli готовит подорожание шин из-за ближневосточ...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/T7ladKLrt0LSCj4Sky4yjYoY9qBzZ_H5SjzX205IzmaskRlS2wgcA5YijzT_Fyy48dTJAFwpiWS-2HtpDdwO8odSmOBws_HJLRiSn0EBRu8FL1VHosqReicsmjyGxwmdQ1s7Wa9ChclS33S7O4Dzf0BBK_dXt0xncJzoyx11u3cx-ZLTOD2A9Uz7NCx9tyVREGE0TW5fO869rQETidHVELQo931bkwCmCH1g7C-NaLSYk5IjwgVCuQQeKVklI_0XES6WRL6DNrfDLu9nGWdisVO-HEUE_MIg4ulJjoyJHHxgRW5gCLnEIV7GS9WN9nok29rvoOL1b5NdoEUq6VvF0g.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/T7ladKLrt0LSCj4Sky4yjYoY9qBzZ_H5SjzX205IzmaskRlS2wgcA5YijzT_Fyy48dTJAFwpiWS-2HtpDdwO8odSmOBws_HJLRiSn0EBRu8FL1VHosqReicsmjyGxwmdQ1s7Wa9ChclS33S7O4Dzf0BBK_dXt0xncJzoyx11u3cx-ZLTOD2A9Uz7NCx9tyVREGE0TW5fO869rQETidHVELQo931bkwCmCH1g7C-NaLSYk5IjwgVCuQQeKVklI_0XES6WRL6DNrfDLu9nGWdisVO-HEUE_MIg4ulJjoyJHHxgRW5gCLnEIV7GS9WN9nok29rvoOL1b5NdoEUq6VvF0g.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Zeekr 8X выходит на рынок: 1400 л.с. и 410 км на э...</title>
+<link>https://sochiautoparts.ru/post/86431</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86431</guid>
+<pubDate>Fri, 17 Apr 2026 18:07:26 GMT</pubDate>
+<description><![CDATA[Zeekr 8X выходит на рынок: 1400 л.с. и 410 км на электротяге<br>🚀<br>🔋<br>Цены от 329 800 до 473 800 юаней (≈ 3,6–5,2 млн ₽). Модель доступна в плагин-гибридных версиях с двумя или тремя электромоторами — мощность 900 и 1400 л.с., разгон до 100 км/ч — 3,7 и 3 с соответственно<br>⚡<br>💨<br>.<br>Батарея на 70 кВт·ч обеспечивает 410 км на электротяге, быстрая зарядка до 80% занимает 9 минут, суммарный запас хода с бензином — 1416 км<br>🔌<br>⛽<br>Кроссовер длиной 5,1 м предлагается на 5 или 6 мест, багажник вмещает 1133–2000 л.<br>🚗<br>📦<br>На передней панели три больших экрана<br>📱<br>, салон с раздельным климат-контролем, вентиляцией и массажем сидений первого и второго ряда<br>💆‍♂️<br>, аудиосистема Naim на 29 динамиков<br>🎵<br>, пневмоподвеска и полуавтономное управление<br>🤖<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Zeekr 8X выходит на рынок: 1400 л.с. и 410 км на электротяге<br>🚀<br>🔋<br>Цены от 329 800 до 473 800 юаней (≈ 3,6–5,2 млн ₽). Модель доступна в плагин-гибридных версиях с двумя или тремя электромоторами — мощность 900 и 1400 л.с., разгон до 100 км/ч — 3,7 и 3 с соответственно<br>⚡<br>💨<br>.<br>Батарея на 70 кВт·ч обеспечивает 410 км на электротяге, быстрая зарядка до 80% занимает 9 минут, суммарный запас хода с бензином — 1416 км<br>🔌<br>⛽<br>Кроссовер длиной 5,1 м предлагается на 5 или 6 мест, багажник вмещает 1133–2000 л.<br>🚗<br>📦<br>На передней панели три больших экрана<br>📱<br>, салон с раздельным климат-контролем, вентиляцией и массажем сидений первого и второго ряда<br>💆‍♂️<br>, аудиосистема Naim на 29 динамиков<br>🎵<br>, пневмоподвеска и полуавтономное управление<br>🤖<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>zeekr</category><category>выходит</category><category>рынок</category><category>1400</category><category>410</category>
+<media:content url="https://cdn4.telesco.pe/file/qkftK873vxHHrdV-bfa-N0xA3or_HEOvA0KADv5d_O5d3TeRRoShC2sSpRQ9Y3zSP1sk15HupD0NNWTHbwyRd4C8tVv_IalaMucWvPebpZQbcmh7lR2rpyHa75iEVvp6dVa0HDPQXuHKEQqiR1pVhVgK0B3goyEoPvNTHVpH89mer7fspVRxEDLjsphn--HYEQjldHI1yfqy66f4c9Nylq6tvxpp1ObTdEMhLRCTpnuxu5MIASxcnx9VkyFUUT6Atp9Wv9t25BkgZxn1JaQwBAbvxJc3_ak60vykrGxmSVqxfKVdkHJNipdyX4Z56BdPGFvrFFCdQQtr-0CvRu7rfw.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Zeekr 8X выходит на рынок: 1400 л.с. и 410 км на э...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/qkftK873vxHHrdV-bfa-N0xA3or_HEOvA0KADv5d_O5d3TeRRoShC2sSpRQ9Y3zSP1sk15HupD0NNWTHbwyRd4C8tVv_IalaMucWvPebpZQbcmh7lR2rpyHa75iEVvp6dVa0HDPQXuHKEQqiR1pVhVgK0B3goyEoPvNTHVpH89mer7fspVRxEDLjsphn--HYEQjldHI1yfqy66f4c9Nylq6tvxpp1ObTdEMhLRCTpnuxu5MIASxcnx9VkyFUUT6Atp9Wv9t25BkgZxn1JaQwBAbvxJc3_ak60vykrGxmSVqxfKVdkHJNipdyX4Z56BdPGFvrFFCdQQtr-0CvRu7rfw.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/qkftK873vxHHrdV-bfa-N0xA3or_HEOvA0KADv5d_O5d3TeRRoShC2sSpRQ9Y3zSP1sk15HupD0NNWTHbwyRd4C8tVv_IalaMucWvPebpZQbcmh7lR2rpyHa75iEVvp6dVa0HDPQXuHKEQqiR1pVhVgK0B3goyEoPvNTHVpH89mer7fspVRxEDLjsphn--HYEQjldHI1yfqy66f4c9Nylq6tvxpp1ObTdEMhLRCTpnuxu5MIASxcnx9VkyFUUT6Atp9Wv9t25BkgZxn1JaQwBAbvxJc3_ak60vykrGxmSVqxfKVdkHJNipdyX4Z56BdPGFvrFFCdQQtr-0CvRu7rfw.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>В США началось производство нового Infiniti QX65
+���...</title>
+<link>https://sochiautoparts.ru/post/86428</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86428</guid>
+<pubDate>Fri, 17 Apr 2026 18:06:35 GMT</pubDate>
+<description><![CDATA[В США началось производство нового Infiniti QX65<br>🇺🇸<br>🚗<br>Кроссовер собирают на заводе Nissan в Смирне (Теннеси), где выпускают QX60, Pathfinder, Murano и Rogue<br>🏭<br>.<br>QX65 построен на платформе QX60, но отличается дизайном<br>✨<br>. Длина — 5042 мм, колесная база — 2900 мм<br>📏<br>.<br>Под капотом — 272-сильная турбочетверка 2.0 VC-Turbo с 9-ступенчатым автоматом и полный привод<br>⚙️<br>💨<br>.<br>Кроссовер поступит в продажу этим летом<br>☀️<br>. Цена — $53 990–62 590 (≈ 4,1–4,8 млн ₽)<br>💰<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[В США началось производство нового Infiniti QX65<br>🇺🇸<br>🚗<br>Кроссовер собирают на заводе Nissan в Смирне (Теннеси), где выпускают QX60, Pathfinder, Murano и Rogue<br>🏭<br>.<br>QX65 построен на платформе QX60, но отличается дизайном<br>✨<br>. Длина — 5042 мм, колесная база — 2900 мм<br>📏<br>.<br>Под капотом — 272-сильная турбочетверка 2.0 VC-Turbo с 9-ступенчатым автоматом и полный привод<br>⚙️<br>💨<br>.<br>Кроссовер поступит в продажу этим летом<br>☀️<br>. Цена — $53 990–62 590 (≈ 4,1–4,8 млн ₽)<br>💰<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>сша</category><category>началось</category><category>производство</category><category>нового</category><category>infiniti</category>
+<media:content url="https://cdn4.telesco.pe/file/EOrylBFW92jhzLMDsJJ03yZW8ZRXLnPxWbHY0PfqPo_cPUocmaw1s4Muyz3yS1eL1p031P_sGO_EzBC0_4uT_sCZH_uoQqSX10vxc5ZvOSQbC5bddBRJdPA61L49-qCATNNG1q69lDTehmjpGKlVErv_Qh9Tyk4CRscFQl9gotv2ZlbGc14sHnEJd_QEJry7epwhDXMEQE4blQ61JnBL8p8rF22S-iHjTNoiu1Qp8wsA5oVPENzM1O_KLw98gttaJP10zpeMkLnswONaKJBu9R0JCWtGuOo91RUeyT8G4ncA7wYDW207J3YYrbCPHjdxGMff-tn--icUoRtZnIdHMA.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">В США началось производство нового Infiniti QX65
+���...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/EOrylBFW92jhzLMDsJJ03yZW8ZRXLnPxWbHY0PfqPo_cPUocmaw1s4Muyz3yS1eL1p031P_sGO_EzBC0_4uT_sCZH_uoQqSX10vxc5ZvOSQbC5bddBRJdPA61L49-qCATNNG1q69lDTehmjpGKlVErv_Qh9Tyk4CRscFQl9gotv2ZlbGc14sHnEJd_QEJry7epwhDXMEQE4blQ61JnBL8p8rF22S-iHjTNoiu1Qp8wsA5oVPENzM1O_KLw98gttaJP10zpeMkLnswONaKJBu9R0JCWtGuOo91RUeyT8G4ncA7wYDW207J3YYrbCPHjdxGMff-tn--icUoRtZnIdHMA.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/EOrylBFW92jhzLMDsJJ03yZW8ZRXLnPxWbHY0PfqPo_cPUocmaw1s4Muyz3yS1eL1p031P_sGO_EzBC0_4uT_sCZH_uoQqSX10vxc5ZvOSQbC5bddBRJdPA61L49-qCATNNG1q69lDTehmjpGKlVErv_Qh9Tyk4CRscFQl9gotv2ZlbGc14sHnEJd_QEJry7epwhDXMEQE4blQ61JnBL8p8rF22S-iHjTNoiu1Qp8wsA5oVPENzM1O_KLw98gttaJP10zpeMkLnswONaKJBu9R0JCWtGuOo91RUeyT8G4ncA7wYDW207J3YYrbCPHjdxGMff-tn--icUoRtZnIdHMA.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>В Японии представили обновлённый Nissan Sakura
+🇯���...</title>
+<link>https://sochiautoparts.ru/post/86424</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86424</guid>
+<pubDate>Fri, 17 Apr 2026 18:05:29 GMT</pubDate>
+<description><![CDATA[В Японии представили обновлённый Nissan Sakura<br>🇯🇵<br>🚗<br>Компактный городской электромобиль продают по цене от 2 448 600 до 2 998 600 иен (≈ 1,3–1,6 млн ₽)<br>💴<br>.<br>Длина — 3,4 м<br>📏<br>. В дизайне — черты старшего Leaf, обновлённые бамперы, двухцветная окраска и золотистый декор<br>✨<br>.<br>В салоне добавлены подстаканники и розетки<br>☕<br>🔌<br>, хэтчбек рассчитан на четыре человека<br>👨‍👩‍👧‍👦<br>, багажник — 107 л<br>🧳<br>.<br>Базовая версия получила бесключевой доступ<br>🗝️<br>, климат-контроль<br>❄️<br>и камеру заднего вида<br>📹<br>, топовая — камеры кругового обзора и парковочный автопилот<br>🤖<br>.<br>Мотор остался на 64 л.с.<br>⚙️<br>, батарея — 20 кВт·ч<br>🔋<br>, максимальная скорость 130 км/ч<br>🚀<br>, запас хода — 180 км<br>🛣️<br>, быстрая зарядка до 80% — 40 минут<br>⏱️<br>, есть режим повербанка<br>🔌<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[В Японии представили обновлённый Nissan Sakura<br>🇯🇵<br>🚗<br>Компактный городской электромобиль продают по цене от 2 448 600 до 2 998 600 иен (≈ 1,3–1,6 млн ₽)<br>💴<br>.<br>Длина — 3,4 м<br>📏<br>. В дизайне — черты старшего Leaf, обновлённые бамперы, двухцветная окраска и золотистый декор<br>✨<br>.<br>В салоне добавлены подстаканники и розетки<br>☕<br>🔌<br>, хэтчбек рассчитан на четыре человека<br>👨‍👩‍👧‍👦<br>, багажник — 107 л<br>🧳<br>.<br>Базовая версия получила бесключевой доступ<br>🗝️<br>, климат-контроль<br>❄️<br>и камеру заднего вида<br>📹<br>, топовая — камеры кругового обзора и парковочный автопилот<br>🤖<br>.<br>Мотор остался на 64 л.с.<br>⚙️<br>, батарея — 20 кВт·ч<br>🔋<br>, максимальная скорость 130 км/ч<br>🚀<br>, запас хода — 180 км<br>🛣️<br>, быстрая зарядка до 80% — 40 минут<br>⏱️<br>, есть режим повербанка<br>🔌<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>японии</category><category>представили</category><category>обновлённый</category><category>nissan</category><category>sakura</category>
+<media:content url="https://cdn4.telesco.pe/file/WRxxPD0ghOAzN90gR7XoudnnpWa3czzd-Y-1LNAqQTj5_ot8C6mskn51Bu8onF0yXdUeynY1inGPvFKTgK0wJlXi5lTrdbjevCxYk8RZX8ixpTHOlRMlxrOgZAinzEAjxkm4YyAtpjJOX88THcmUeWOrSTAoyS6g5ujUJWkHl7ew_AdkzDRhGOlBTNQZ9rvyGCRGTOSBpqI8PZArEdhEo-6vfLffWX7PD4UffwcKIAPpkN435n3BU8z7gxuCz8IikwTHGTpbLU09QiRIkK9NwvTS09pCAskANrKPKXx3lR5f830cVtJhP_t7bUYUscSdAi14AGgQDfj6aE-Mf9UUBw.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">В Японии представили обновлённый Nissan Sakura
+🇯���...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/WRxxPD0ghOAzN90gR7XoudnnpWa3czzd-Y-1LNAqQTj5_ot8C6mskn51Bu8onF0yXdUeynY1inGPvFKTgK0wJlXi5lTrdbjevCxYk8RZX8ixpTHOlRMlxrOgZAinzEAjxkm4YyAtpjJOX88THcmUeWOrSTAoyS6g5ujUJWkHl7ew_AdkzDRhGOlBTNQZ9rvyGCRGTOSBpqI8PZArEdhEo-6vfLffWX7PD4UffwcKIAPpkN435n3BU8z7gxuCz8IikwTHGTpbLU09QiRIkK9NwvTS09pCAskANrKPKXx3lR5f830cVtJhP_t7bUYUscSdAi14AGgQDfj6aE-Mf9UUBw.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/WRxxPD0ghOAzN90gR7XoudnnpWa3czzd-Y-1LNAqQTj5_ot8C6mskn51Bu8onF0yXdUeynY1inGPvFKTgK0wJlXi5lTrdbjevCxYk8RZX8ixpTHOlRMlxrOgZAinzEAjxkm4YyAtpjJOX88THcmUeWOrSTAoyS6g5ujUJWkHl7ew_AdkzDRhGOlBTNQZ9rvyGCRGTOSBpqI8PZArEdhEo-6vfLffWX7PD4UffwcKIAPpkN435n3BU8z7gxuCz8IikwTHGTpbLU09QiRIkK9NwvTS09pCAskANrKPKXx3lR5f830cVtJhP_t7bUYUscSdAi14AGgQDfj6aE-Mf9UUBw.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Stellantis остановит завод во Франции
+🇫🇷
+🏭
+Конц...</title>
+<link>https://sochiautoparts.ru/post/86423</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86423</guid>
+<pubDate>Fri, 17 Apr 2026 18:04:34 GMT</pubDate>
+<description><![CDATA[Stellantis остановит завод во Франции<br>🇫🇷<br>🏭<br>Концерн прекратит производство автомобилей на заводе в Пуасси к концу 2028 года. Сейчас здесь собирают Opel Mokka и DS 3.<br>🚗<br>Предприятие переоборудуют в центр переработки и восстановления подержанных авто, а также сохранят выпуск комплектующих, включая детали с 3D-печати.<br>🔄<br>🔧<br>После остановки конвейера модели получат преемников, но их производство перенесут.<br>📍<br>В трансформацию площадки вложат около 100 млн евро.<br>💶<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Stellantis остановит завод во Франции<br>🇫🇷<br>🏭<br>Концерн прекратит производство автомобилей на заводе в Пуасси к концу 2028 года. Сейчас здесь собирают Opel Mokka и DS 3.<br>🚗<br>Предприятие переоборудуют в центр переработки и восстановления подержанных авто, а также сохранят выпуск комплектующих, включая детали с 3D-печати.<br>🔄<br>🔧<br>После остановки конвейера модели получат преемников, но их производство перенесут.<br>📍<br>В трансформацию площадки вложат около 100 млн евро.<br>💶<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>stellantis</category><category>остановит</category><category>завод</category><category>франции</category><category>концерн</category>
+<media:content url="https://cdn4.telesco.pe/file/GRKt9qYwD6hQ-GJLv6YmitRjUDLyRIK_u5_0lC3Ls1nEGbr_P7FnDMsvto8taFNRdFZczF6bbjCwd4pLD0eOMB0W59iS7jMmiqvq80xfo3OfRgsyOV7ifrrwIFeQmvQhbadztmuXODhNh8Ob5VMG2sYBQIgCzaGyFQrc5hT2HSIgbpl6YtWrliKAgcwF_mMuZwArTT2h8OzbhAVPUbqxpVHexx2B5k4p3b0GshgFXoYCK5PziQjClWzcj3IVW05Ap7hcsOrVkvfWsnrDS8AxKCl_VxP0yq_5CbrEIb-J2YKikyZL1sFxMe6c2ZbrVa-92bWM8L2wU954wXIgFntrOg.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Stellantis остановит завод во Франции
+🇫🇷
+🏭
+Конц...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/GRKt9qYwD6hQ-GJLv6YmitRjUDLyRIK_u5_0lC3Ls1nEGbr_P7FnDMsvto8taFNRdFZczF6bbjCwd4pLD0eOMB0W59iS7jMmiqvq80xfo3OfRgsyOV7ifrrwIFeQmvQhbadztmuXODhNh8Ob5VMG2sYBQIgCzaGyFQrc5hT2HSIgbpl6YtWrliKAgcwF_mMuZwArTT2h8OzbhAVPUbqxpVHexx2B5k4p3b0GshgFXoYCK5PziQjClWzcj3IVW05Ap7hcsOrVkvfWsnrDS8AxKCl_VxP0yq_5CbrEIb-J2YKikyZL1sFxMe6c2ZbrVa-92bWM8L2wU954wXIgFntrOg.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/GRKt9qYwD6hQ-GJLv6YmitRjUDLyRIK_u5_0lC3Ls1nEGbr_P7FnDMsvto8taFNRdFZczF6bbjCwd4pLD0eOMB0W59iS7jMmiqvq80xfo3OfRgsyOV7ifrrwIFeQmvQhbadztmuXODhNh8Ob5VMG2sYBQIgCzaGyFQrc5hT2HSIgbpl6YtWrliKAgcwF_mMuZwArTT2h8OzbhAVPUbqxpVHexx2B5k4p3b0GshgFXoYCK5PziQjClWzcj3IVW05Ap7hcsOrVkvfWsnrDS8AxKCl_VxP0yq_5CbrEIb-J2YKikyZL1sFxMe6c2ZbrVa-92bWM8L2wU954wXIgFntrOg.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Honda NSX-R 2003 года выставили на аукцион за $1 м...</title>
+<link>https://sochiautoparts.ru/post/86419</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86419</guid>
+<pubDate>Fri, 17 Apr 2026 18:03:55 GMT</pubDate>
+<description><![CDATA[Honda NSX-R 2003 года выставили на аукцион за $1 млн<br>🏎️<br>💸<br>В Италии на аукцион Broad Arrow выставили Honda NSX-R — это редкая трековая версия, выпущенная тиражом всего 140 экземпляров для Японии<br>🇯🇵<br>✨<br>.<br>Конкретный автомобиль проехал 46 700 км и в 2022 году прошёл реставрацию на заводе Honda<br>🛠️<br>🔧<br>.<br>NSX-R стал легче на 100 кг (до 1270 кг) за счёт карбона и упрощённого оснащения<br>⚖️<br>🚫<br>❄️<br>. Установлены кресла Recaro, убран кондиционер и аудиосистема<br>🪑<br>🔇<br>.<br>3,2-литровый V6 развивает 290 л.с., разгон до 100 км/ч — 4,7 с, максимальная скорость — 290 км/ч<br>🚀<br>💨<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Honda NSX-R 2003 года выставили на аукцион за $1 млн<br>🏎️<br>💸<br>В Италии на аукцион Broad Arrow выставили Honda NSX-R — это редкая трековая версия, выпущенная тиражом всего 140 экземпляров для Японии<br>🇯🇵<br>✨<br>.<br>Конкретный автомобиль проехал 46 700 км и в 2022 году прошёл реставрацию на заводе Honda<br>🛠️<br>🔧<br>.<br>NSX-R стал легче на 100 кг (до 1270 кг) за счёт карбона и упрощённого оснащения<br>⚖️<br>🚫<br>❄️<br>. Установлены кресла Recaro, убран кондиционер и аудиосистема<br>🪑<br>🔇<br>.<br>3,2-литровый V6 развивает 290 л.с., разгон до 100 км/ч — 4,7 с, максимальная скорость — 290 км/ч<br>🚀<br>💨<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>honda</category><category>nsx</category><category>2003</category><category>года</category><category>выставили</category>
+<media:content url="https://cdn4.telesco.pe/file/OMGkwUwFvDzp2UiblzQrk9ob8b7aIOm90sL0EWaZPWDPRX5mj5iSixOPk-UkCG07gZFr_H7jxkDaQP4e6t9x0RSh7HIcmE-Jmg9VoVFXC5i37QD6kkTnEq3FiuUQNFZDIY-qS4u5hyPot_kAzSVot4SmowHjj47xrCIUvovq9I8crbV_N2oMTKmr8lSNwzv6XIdkdePJ0ICc7HGVkMYMRAIVKKGYwVnI9oDoR0GSJMjK6z37C1o44fAsaN7aAxZfA2ncVYXoquuM6OO2r8d7db-j-NOBgAHs5K--CfB02_NCkPzSzbWBfMfceai1f0Lmx8QuRaksIV9_ORHCLSM50w.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Honda NSX-R 2003 года выставили на аукцион за $1 м...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/OMGkwUwFvDzp2UiblzQrk9ob8b7aIOm90sL0EWaZPWDPRX5mj5iSixOPk-UkCG07gZFr_H7jxkDaQP4e6t9x0RSh7HIcmE-Jmg9VoVFXC5i37QD6kkTnEq3FiuUQNFZDIY-qS4u5hyPot_kAzSVot4SmowHjj47xrCIUvovq9I8crbV_N2oMTKmr8lSNwzv6XIdkdePJ0ICc7HGVkMYMRAIVKKGYwVnI9oDoR0GSJMjK6z37C1o44fAsaN7aAxZfA2ncVYXoquuM6OO2r8d7db-j-NOBgAHs5K--CfB02_NCkPzSzbWBfMfceai1f0Lmx8QuRaksIV9_ORHCLSM50w.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/OMGkwUwFvDzp2UiblzQrk9ob8b7aIOm90sL0EWaZPWDPRX5mj5iSixOPk-UkCG07gZFr_H7jxkDaQP4e6t9x0RSh7HIcmE-Jmg9VoVFXC5i37QD6kkTnEq3FiuUQNFZDIY-qS4u5hyPot_kAzSVot4SmowHjj47xrCIUvovq9I8crbV_N2oMTKmr8lSNwzv6XIdkdePJ0ICc7HGVkMYMRAIVKKGYwVnI9oDoR0GSJMjK6z37C1o44fAsaN7aAxZfA2ncVYXoquuM6OO2r8d7db-j-NOBgAHs5K--CfB02_NCkPzSzbWBfMfceai1f0Lmx8QuRaksIV9_ORHCLSM50w.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Интернет-магазин производителя смазочных материало...</title>
+<link>https://sochiautoparts.ru/post/86418</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86418</guid>
+<pubDate>Fri, 17 Apr 2026 07:43:39 GMT</pubDate>
+<description><![CDATA[Интернет-магазин производителя смазочных материалов под брендом ЛУКОЙЛ.<br>В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.<br>Есть онлайн подборщик масел, в котором можно определиться с выбором.<br>Операторы линии поддержки оперативно ответят на вопросы.<br>🏁<br>100% оригинальные товары<br>🏁<br>Доставка по все России<br>🏁<br>Бесплатная доставка от 5 литров<br>🏁<br>Прием онлайн заказов 24/7<br>👇<br>👇<br>👇<br><a href="https://fas.st/pouvn?erid=2bL9aMPo2e49hMef4piUHJTFSs" target="_blank" rel="nofollow">https://fas.st/pouvn?erid=2bL9aMPo2e49hMef4piUHJTFSs</a>]]></description>
+<content:encoded><![CDATA[Интернет-магазин производителя смазочных материалов под брендом ЛУКОЙЛ.<br>В онлайн-магазине ЛУКОЙЛ смазочные материалы можно найти категории моторных и трансмиссионных масел, автохимию, охлаждающие и тормозные жидкости.<br>Есть онлайн подборщик масел, в котором можно определиться с выбором.<br>Операторы линии поддержки оперативно ответят на вопросы.<br>🏁<br>100% оригинальные товары<br>🏁<br>Доставка по все России<br>🏁<br>Бесплатная доставка от 5 литров<br>🏁<br>Прием онлайн заказов 24/7<br>👇<br>👇<br>👇<br><a href="https://fas.st/pouvn?erid=2bL9aMPo2e49hMef4piUHJTFSs" target="_blank" rel="nofollow">https://fas.st/pouvn?erid=2bL9aMPo2e49hMef4piUHJTFSs</a><br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>интернет</category><category>магазин</category><category>производителя</category><category>смазочных</category><category>материалов</category>
+<media:content url="https://cdn4.telesco.pe/file/Dx_IKVsZpUTDSwo845FWq6K_vtiIiwYoVdjpvKSJTn3eoysXZzWoF1MNYfGX7CJC6bLsploXSWYBwvitFdoqPZnclawJvj1V4l1YhDTzpnUO1RKOkYp4moEq5yXWOl4dIdeZgq-8ymlXp9Yw3YVFcp41zPb9XGlQe2_YLdQLYvLEY_AfM_dWecDCyfmncYEUaOCY2taiqr64mx4G_ojKjRT_JtN3CHTKVMHdwNwnezRBw6IqipLvpxL8c3PImIFmQUaKQMpOEBeSvcPWRSWIWhS6w3XrwjxhMRji1w8gI4mBDt0o00mKRCl1r1TqlCco-IgwqyA6eaLmJO9uUbHTYA.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Интернет-магазин производителя смазочных материало...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/Dx_IKVsZpUTDSwo845FWq6K_vtiIiwYoVdjpvKSJTn3eoysXZzWoF1MNYfGX7CJC6bLsploXSWYBwvitFdoqPZnclawJvj1V4l1YhDTzpnUO1RKOkYp4moEq5yXWOl4dIdeZgq-8ymlXp9Yw3YVFcp41zPb9XGlQe2_YLdQLYvLEY_AfM_dWecDCyfmncYEUaOCY2taiqr64mx4G_ojKjRT_JtN3CHTKVMHdwNwnezRBw6IqipLvpxL8c3PImIFmQUaKQMpOEBeSvcPWRSWIWhS6w3XrwjxhMRji1w8gI4mBDt0o00mKRCl1r1TqlCco-IgwqyA6eaLmJO9uUbHTYA.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/Dx_IKVsZpUTDSwo845FWq6K_vtiIiwYoVdjpvKSJTn3eoysXZzWoF1MNYfGX7CJC6bLsploXSWYBwvitFdoqPZnclawJvj1V4l1YhDTzpnUO1RKOkYp4moEq5yXWOl4dIdeZgq-8ymlXp9Yw3YVFcp41zPb9XGlQe2_YLdQLYvLEY_AfM_dWecDCyfmncYEUaOCY2taiqr64mx4G_ojKjRT_JtN3CHTKVMHdwNwnezRBw6IqipLvpxL8c3PImIFmQUaKQMpOEBeSvcPWRSWIWhS6w3XrwjxhMRji1w8gI4mBDt0o00mKRCl1r1TqlCco-IgwqyA6eaLmJO9uUbHTYA.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Вот как выглядела спецверсия Mercedes-Benz для нем...</title>
+<link>https://sochiautoparts.ru/post/86413</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86413</guid>
+<pubDate>Fri, 17 Apr 2026 07:24:46 GMT</pubDate>
+<description><![CDATA[Вот как выглядела спецверсия Mercedes-Benz для немецкой полиции в 90-х<br>🚓<br>🇩🇪<br>Mercedes-Benz 420SE имела бронекузов и даже встроенное оружие в дверях<br>🔫<br>🚗<br>— машины использовали для опасных операций, сопровождения VIP-персон и охраны ценных грузов<br>🛡️<br>💼<br>Седан мог выдержать выстрелы из АК-47 и разгоняться до 220 км/ч<br>🚀<br>🔥<br>— таких машин сделали всего пять штук<br>🔢<br>✨<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Вот как выглядела спецверсия Mercedes-Benz для немецкой полиции в 90-х<br>🚓<br>🇩🇪<br>Mercedes-Benz 420SE имела бронекузов и даже встроенное оружие в дверях<br>🔫<br>🚗<br>— машины использовали для опасных операций, сопровождения VIP-персон и охраны ценных грузов<br>🛡️<br>💼<br>Седан мог выдержать выстрелы из АК-47 и разгоняться до 220 км/ч<br>🚀<br>🔥<br>— таких машин сделали всего пять штук<br>🔢<br>✨<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>выглядела</category><category>спецверсия</category><category>mercedes</category><category>benz</category><category>для</category>
+<media:content url="https://cdn4.telesco.pe/file/RdIbx2eFleZWNJ6_tc00ppeSlUa0XWh7A_G7wRGnjJK4c78arKarSfhFFjHI8vOxoZhQrF9xuP7ijjjYNI_YaqAIn3LmI8U1EU77shw4XgO9-wWqkSHVCR9NgUBiS624gWmRt9V8jCmQOx_NfCB49rHOrbhXtkdYGo6hnsBdkVcYCWxTL8EobIrlv3iZgTWcdT6El0l8_mt1SiDh1FyZmjlLzLDdXB8wV5XW4YoWdsZ_ZE591u_VBZmU3XFhwcruuUeptkU6RRkLvnBBBaz6EuMPYOY7pFvzQIHKp7rxlR0oSzJWJ2byYRves8qXuPeD-Iu7qRu29in5OHDFvGpyDg.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Вот как выглядела спецверсия Mercedes-Benz для нем...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/RdIbx2eFleZWNJ6_tc00ppeSlUa0XWh7A_G7wRGnjJK4c78arKarSfhFFjHI8vOxoZhQrF9xuP7ijjjYNI_YaqAIn3LmI8U1EU77shw4XgO9-wWqkSHVCR9NgUBiS624gWmRt9V8jCmQOx_NfCB49rHOrbhXtkdYGo6hnsBdkVcYCWxTL8EobIrlv3iZgTWcdT6El0l8_mt1SiDh1FyZmjlLzLDdXB8wV5XW4YoWdsZ_ZE591u_VBZmU3XFhwcruuUeptkU6RRkLvnBBBaz6EuMPYOY7pFvzQIHKp7rxlR0oSzJWJ2byYRves8qXuPeD-Iu7qRu29in5OHDFvGpyDg.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/RdIbx2eFleZWNJ6_tc00ppeSlUa0XWh7A_G7wRGnjJK4c78arKarSfhFFjHI8vOxoZhQrF9xuP7ijjjYNI_YaqAIn3LmI8U1EU77shw4XgO9-wWqkSHVCR9NgUBiS624gWmRt9V8jCmQOx_NfCB49rHOrbhXtkdYGo6hnsBdkVcYCWxTL8EobIrlv3iZgTWcdT6El0l8_mt1SiDh1FyZmjlLzLDdXB8wV5XW4YoWdsZ_ZE591u_VBZmU3XFhwcruuUeptkU6RRkLvnBBBaz6EuMPYOY7pFvzQIHKp7rxlR0oSzJWJ2byYRves8qXuPeD-Iu7qRu29in5OHDFvGpyDg.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>На Авито нашли самый «колхозный» авто в истории — ...</title>
+<link>https://sochiautoparts.ru/post/86412</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86412</guid>
+<pubDate>Fri, 17 Apr 2026 07:23:29 GMT</pubDate>
+<description><![CDATA[На Авито нашли самый «колхозный» авто в истории — владелец BMW переделал в машине буквально всё, что можно было.<br>🚗<br>🛠️<br>🤯<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[На Авито нашли самый «колхозный» авто в истории — владелец BMW переделал в машине буквально всё, что можно было.<br>🚗<br>🛠️<br>🤯<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>авито</category><category>нашли</category><category>самый</category><category>колхозный</category><category>авто</category>
+<media:content url="https://cdn4.telesco.pe/file/028eb3a35d.mp4?token=IWVcUQ3mZLa3lA3OTjq2u4_royHc970sc7AmkJMpo9WUBQyLvOMR625tzyZaalDtw9n8HzjZ23R9X1ODNZN2m1UwB4Xuu6M02Rx7BjwuqBHDWOqzIPJswP59etydQZgmU5dNZHTYVLcn6t7mE9RcwDHjTvKynnjU6xa9EletyLlND-P7V9AIgfQf-N0xAX9L5rlEv-BBEnWMOdOziU2XAQvXEX9Kx51iVpYFJyVd2U3CmVAfwOAWRUq168BrYZL_IKTgZISF5tpOxDwCcOtLnJCjEdeQE6vrOwTOjpXfqDTNTtCUMt9Crg-u8mTT10FvSY0BjwFhUm9qRvEcbSPVsQ" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">На Авито нашли самый «колхозный» авто в истории — ...</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86412"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/028eb3a35d.mp4?token=IWVcUQ3mZLa3lA3OTjq2u4_royHc970sc7AmkJMpo9WUBQyLvOMR625tzyZaalDtw9n8HzjZ23R9X1ODNZN2m1UwB4Xuu6M02Rx7BjwuqBHDWOqzIPJswP59etydQZgmU5dNZHTYVLcn6t7mE9RcwDHjTvKynnjU6xa9EletyLlND-P7V9AIgfQf-N0xAX9L5rlEv-BBEnWMOdOziU2XAQvXEX9Kx51iVpYFJyVd2U3CmVAfwOAWRUq168BrYZL_IKTgZISF5tpOxDwCcOtLnJCjEdeQE6vrOwTOjpXfqDTNTtCUMt9Crg-u8mTT10FvSY0BjwFhUm9qRvEcbSPVsQ" type="video/mp4" />
+</item>
+<item>
+<title>BMW iX снимают с продаж в США
+🇺🇸
+🚫
+BMW прекраща...</title>
+<link>https://sochiautoparts.ru/post/86410</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86410</guid>
+<pubDate>Fri, 17 Apr 2026 07:20:54 GMT</pubDate>
+<description><![CDATA[BMW iX снимают с продаж в США<br>🇺🇸<br>🚫<br>BMW прекращает продажи электрического iX в США после падения спроса<br>📉<br>: за квартал — 1788 машин (-50,7%). Компания переключается на новый iX3<br>🔄<br>.<br>Старт iX3 намечен на лето 2026 года<br>🗓️<br>, ориентир по цене — $60 000 (4 530 000 ₽)<br>💰<br>. Кроссовер получит 469 л.с. и запас хода до 644 км<br>⚡<br>🚙<br>.<br>iX пока доступен у дилеров: от $75 150 (5 670 000 ₽) до $88 500 (6 680 000 ₽)<br>🏪<br>🔑<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[BMW iX снимают с продаж в США<br>🇺🇸<br>🚫<br>BMW прекращает продажи электрического iX в США после падения спроса<br>📉<br>: за квартал — 1788 машин (-50,7%). Компания переключается на новый iX3<br>🔄<br>.<br>Старт iX3 намечен на лето 2026 года<br>🗓️<br>, ориентир по цене — $60 000 (4 530 000 ₽)<br>💰<br>. Кроссовер получит 469 л.с. и запас хода до 644 км<br>⚡<br>🚙<br>.<br>iX пока доступен у дилеров: от $75 150 (5 670 000 ₽) до $88 500 (6 680 000 ₽)<br>🏪<br>🔑<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>bmw</category><category>снимают</category><category>продаж</category><category>сша</category><category>прекращает</category>
+<media:content url="https://cdn4.telesco.pe/file/Cz-4LEXwQKJKDk2F5IENyENjYSvBQLmBIveZ5uVclcH0oETVQXxeJ4-CrGKpPCHbFl5f44ohpIGaKUW8tR2CuCA6TH8FYGrIzDv8LbHoLZJBqOIQWk2Jjf-LrtiyrLBAzkAXAV4B2w0GY_scIISW8zbUSlC9ot5bhl5hOr_Tp1uRI9hH7cZEVyyEPV9yMsxY2z6vsPtK6n4VJxKbOhQjzPfiZXbSl4o0F9Ng3HlElrR479Vwz17htr_USRPAcWrF2xHNjU0d_3iVENtbyc4S8kAr5YlWLEhPxkiUmzWS4Yth-Febih595u8swZdaMzQyPSxPXzKEH2cmDQcUTPp0LQ.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">BMW iX снимают с продаж в США
+🇺🇸
+🚫
+BMW прекраща...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/Cz-4LEXwQKJKDk2F5IENyENjYSvBQLmBIveZ5uVclcH0oETVQXxeJ4-CrGKpPCHbFl5f44ohpIGaKUW8tR2CuCA6TH8FYGrIzDv8LbHoLZJBqOIQWk2Jjf-LrtiyrLBAzkAXAV4B2w0GY_scIISW8zbUSlC9ot5bhl5hOr_Tp1uRI9hH7cZEVyyEPV9yMsxY2z6vsPtK6n4VJxKbOhQjzPfiZXbSl4o0F9Ng3HlElrR479Vwz17htr_USRPAcWrF2xHNjU0d_3iVENtbyc4S8kAr5YlWLEhPxkiUmzWS4Yth-Febih595u8swZdaMzQyPSxPXzKEH2cmDQcUTPp0LQ.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/Cz-4LEXwQKJKDk2F5IENyENjYSvBQLmBIveZ5uVclcH0oETVQXxeJ4-CrGKpPCHbFl5f44ohpIGaKUW8tR2CuCA6TH8FYGrIzDv8LbHoLZJBqOIQWk2Jjf-LrtiyrLBAzkAXAV4B2w0GY_scIISW8zbUSlC9ot5bhl5hOr_Tp1uRI9hH7cZEVyyEPV9yMsxY2z6vsPtK6n4VJxKbOhQjzPfiZXbSl4o0F9Ng3HlElrR479Vwz17htr_USRPAcWrF2xHNjU0d_3iVENtbyc4S8kAr5YlWLEhPxkiUmzWS4Yth-Febih595u8swZdaMzQyPSxPXzKEH2cmDQcUTPp0LQ.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Geely открыла приём заказов на новый Galaxy Starsh...</title>
+<link>https://sochiautoparts.ru/post/86404</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86404</guid>
+<pubDate>Fri, 17 Apr 2026 07:19:54 GMT</pubDate>
+<description><![CDATA[Geely открыла приём заказов на новый Galaxy Starshine 7<br>🚗<br>✨<br>Переднеприводная версия оснащается бензиновым мотором 1.5 (111 л.с.) и электродвигателем на передней оси (190 л.с.). Суммарная отдача — 302 л.с. и 376 Нм.<br>⚡<br>Полный привод дополняет задний электромотор (122 л.с.), суммарная отдача — 424 л.с. и 526 Нм. Запас хода на электротяге — 220–230 км.<br>🔋<br>Длина — 4958 мм, ширина — 1915 мм, высота — 1505 мм, колесная база — 2845–2852 мм, багажник — 541 литр.<br>📏<br>Салон оснащён виртуальной приборкой, мультимедиа с экраном до 15,4 дюйма, массажем кресел и адаптивной подвеской.<br>🛋️<br>📱<br>Цены на Китайском рынке: от 112 800 до 142 800 юаней (≈1,26 — 1,6 млн ₽).<br>💰<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Geely открыла приём заказов на новый Galaxy Starshine 7<br>🚗<br>✨<br>Переднеприводная версия оснащается бензиновым мотором 1.5 (111 л.с.) и электродвигателем на передней оси (190 л.с.). Суммарная отдача — 302 л.с. и 376 Нм.<br>⚡<br>Полный привод дополняет задний электромотор (122 л.с.), суммарная отдача — 424 л.с. и 526 Нм. Запас хода на электротяге — 220–230 км.<br>🔋<br>Длина — 4958 мм, ширина — 1915 мм, высота — 1505 мм, колесная база — 2845–2852 мм, багажник — 541 литр.<br>📏<br>Салон оснащён виртуальной приборкой, мультимедиа с экраном до 15,4 дюйма, массажем кресел и адаптивной подвеской.<br>🛋️<br>📱<br>Цены на Китайском рынке: от 112 800 до 142 800 юаней (≈1,26 — 1,6 млн ₽).<br>💰<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>geely</category><category>открыла</category><category>приём</category><category>заказов</category><category>новый</category>
+<media:content url="https://cdn4.telesco.pe/file/Sjoz9vY8Hz6RScFUFyLjmelaU-G07_aes41eSEUAdp-4MtXIsfPgVpq-W0jd-9-ze7FjjujIItaIYpTKbozLTw_lV4MS4bPoyZ4jh0SlkTD0tbBd_yvhMcNKfmodkndXMflmC1T3N0j9mc0-ej_Ti0Qr-BZSJTkzZnVg2ufJMKZQIpcf1JXE8NbyvX6ZwmPJTOPlDMtFhfAsjySfJ5XxJR4yNuFOkq6wdZOXoCkwBw2UkEDycYHFfeQbVVcSRBX8JQOExPY8e6o2Y2cpVhZLBI26AbS_aO5tkBEovsP4anAU-xoCbai8m1un7Yjpu7fKPhPWZ8RyKyX7cFZg2Dxarw.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Geely открыла приём заказов на новый Galaxy Starsh...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/Sjoz9vY8Hz6RScFUFyLjmelaU-G07_aes41eSEUAdp-4MtXIsfPgVpq-W0jd-9-ze7FjjujIItaIYpTKbozLTw_lV4MS4bPoyZ4jh0SlkTD0tbBd_yvhMcNKfmodkndXMflmC1T3N0j9mc0-ej_Ti0Qr-BZSJTkzZnVg2ufJMKZQIpcf1JXE8NbyvX6ZwmPJTOPlDMtFhfAsjySfJ5XxJR4yNuFOkq6wdZOXoCkwBw2UkEDycYHFfeQbVVcSRBX8JQOExPY8e6o2Y2cpVhZLBI26AbS_aO5tkBEovsP4anAU-xoCbai8m1un7Yjpu7fKPhPWZ8RyKyX7cFZg2Dxarw.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/Sjoz9vY8Hz6RScFUFyLjmelaU-G07_aes41eSEUAdp-4MtXIsfPgVpq-W0jd-9-ze7FjjujIItaIYpTKbozLTw_lV4MS4bPoyZ4jh0SlkTD0tbBd_yvhMcNKfmodkndXMflmC1T3N0j9mc0-ej_Ti0Qr-BZSJTkzZnVg2ufJMKZQIpcf1JXE8NbyvX6ZwmPJTOPlDMtFhfAsjySfJ5XxJR4yNuFOkq6wdZOXoCkwBw2UkEDycYHFfeQbVVcSRBX8JQOExPY8e6o2Y2cpVhZLBI26AbS_aO5tkBEovsP4anAU-xoCbai8m1un7Yjpu7fKPhPWZ8RyKyX7cFZg2Dxarw.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>У парня из Лос-Анджелеса угнали новый Porsche, но....</title>
+<link>https://sochiautoparts.ru/post/86401</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86401</guid>
+<pubDate>Fri, 17 Apr 2026 04:19:18 GMT</pubDate>
+<description><![CDATA[У парня из Лос-Анджелеса угнали новый Porsche, но... не полностью.<br>🚗<br>💨<br>Заботливые воры всё-таки решили оставить кузов.<br>😅<br>🔧<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[У парня из Лос-Анджелеса угнали новый Porsche, но... не полностью.<br>🚗<br>💨<br>Заботливые воры всё-таки решили оставить кузов.<br>😅<br>🔧<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>парня</category><category>лос</category><category>анджелеса</category><category>угнали</category><category>новый</category>
+<media:content url="https://cdn4.telesco.pe/file/VPbe6LJGIfeI9-KtCPOhOP8IFeYeFrQF0hVZPCn_s9skyX1GzDZFB6OCVld6xkEc861DJGDt3j2wgCBQA0j5RvsiFsxRx2_VkqGUr3n3G1M8sGEMILd-hJJa97kzaRrvw5dwbqtjiNU2LjZz08NQjxyqnb8Am99SPSjdJ8CrCfLdGGvWqP7FDeiOJcq3BjcizU8Lb2Togb9S1e5GTDS-yJN72rLmCbUbflXJgDtrRmr484X5sPBpflyyKuN6VFKibjTr2dB-uDRrEGqvpulRblCd08JefhkjA5IDQfzqF0DzUigdZOcaLqBwvDnye7SVjvd-cP0SbB3JGBUKetv5ig.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">У парня из Лос-Анджелеса угнали новый Porsche, но....</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/VPbe6LJGIfeI9-KtCPOhOP8IFeYeFrQF0hVZPCn_s9skyX1GzDZFB6OCVld6xkEc861DJGDt3j2wgCBQA0j5RvsiFsxRx2_VkqGUr3n3G1M8sGEMILd-hJJa97kzaRrvw5dwbqtjiNU2LjZz08NQjxyqnb8Am99SPSjdJ8CrCfLdGGvWqP7FDeiOJcq3BjcizU8Lb2Togb9S1e5GTDS-yJN72rLmCbUbflXJgDtrRmr484X5sPBpflyyKuN6VFKibjTr2dB-uDRrEGqvpulRblCd08JefhkjA5IDQfzqF0DzUigdZOcaLqBwvDnye7SVjvd-cP0SbB3JGBUKetv5ig.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/VPbe6LJGIfeI9-KtCPOhOP8IFeYeFrQF0hVZPCn_s9skyX1GzDZFB6OCVld6xkEc861DJGDt3j2wgCBQA0j5RvsiFsxRx2_VkqGUr3n3G1M8sGEMILd-hJJa97kzaRrvw5dwbqtjiNU2LjZz08NQjxyqnb8Am99SPSjdJ8CrCfLdGGvWqP7FDeiOJcq3BjcizU8Lb2Togb9S1e5GTDS-yJN72rLmCbUbflXJgDtrRmr484X5sPBpflyyKuN6VFKibjTr2dB-uDRrEGqvpulRblCd08JefhkjA5IDQfzqF0DzUigdZOcaLqBwvDnye7SVjvd-cP0SbB3JGBUKetv5ig.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>https://fas.st/OGNuy?erid=2bL9aMPo2e49hMef4piUd4V2...</title>
+<link>https://sochiautoparts.ru/post/86400</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86400</guid>
+<pubDate>Fri, 17 Apr 2026 04:17:16 GMT</pubDate>
+<description><![CDATA[<a href="https://fas.st/OGNuy?erid=2bL9aMPo2e49hMef4piUd4V2My" target="_blank" rel="nofollow">https://fas.st/OGNuy?erid=2bL9aMPo2e49hMef4piUd4V2My</a><br>Реклама ООО "ГРИНЛАЙТ"<br>ИНН :5401359124]]></description>
+<content:encoded><![CDATA[<a href="https://fas.st/OGNuy?erid=2bL9aMPo2e49hMef4piUd4V2My" target="_blank" rel="nofollow">https://fas.st/OGNuy?erid=2bL9aMPo2e49hMef4piUd4V2My</a><br>Реклама ООО "ГРИНЛАЙТ"<br>ИНН :5401359124<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>реклама</category><category>ооо</category><category>гринлайт</category><category>инн</category><category>5401359124</category>
+<media:content url="https://cdn4.telesco.pe/file/K92ijMTuTM2Rt0hc3XkIBBCnRfLhZB5BcdJdAfNsxj0wNuCiYIhtwOvosJENV3LM-sPXlG28TQ9Gx8jqJMLd-y72tnKU-3qn_gC0T5cBXkib0xErINsmNtYCpznCWZl5O__SAUcK3-jVsNXUUjanoPt6XRKDpM1TLkHSQfZ9Ylcvp6OxfZrz2g0n1QURZ_xblLjfTZZ8bwmwo1P0h5_3J3oEKewfQTHJqQHzFEFu4pS10BUa3Z_zwJm5Y084r0cXb62kYgDdoYueHPudYTrqObBZ2xpw6mPLxPB1e-saoF_zKljHCv5ln6uIKsEHrM3qCknDb3cGItflxrPcLzZVjg.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">https://fas.st/OGNuy?erid=2bL9aMPo2e49hMef4piUd4V2...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/K92ijMTuTM2Rt0hc3XkIBBCnRfLhZB5BcdJdAfNsxj0wNuCiYIhtwOvosJENV3LM-sPXlG28TQ9Gx8jqJMLd-y72tnKU-3qn_gC0T5cBXkib0xErINsmNtYCpznCWZl5O__SAUcK3-jVsNXUUjanoPt6XRKDpM1TLkHSQfZ9Ylcvp6OxfZrz2g0n1QURZ_xblLjfTZZ8bwmwo1P0h5_3J3oEKewfQTHJqQHzFEFu4pS10BUa3Z_zwJm5Y084r0cXb62kYgDdoYueHPudYTrqObBZ2xpw6mPLxPB1e-saoF_zKljHCv5ln6uIKsEHrM3qCknDb3cGItflxrPcLzZVjg.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/K92ijMTuTM2Rt0hc3XkIBBCnRfLhZB5BcdJdAfNsxj0wNuCiYIhtwOvosJENV3LM-sPXlG28TQ9Gx8jqJMLd-y72tnKU-3qn_gC0T5cBXkib0xErINsmNtYCpznCWZl5O__SAUcK3-jVsNXUUjanoPt6XRKDpM1TLkHSQfZ9Ylcvp6OxfZrz2g0n1QURZ_xblLjfTZZ8bwmwo1P0h5_3J3oEKewfQTHJqQHzFEFu4pS10BUa3Z_zwJm5Y084r0cXb62kYgDdoYueHPudYTrqObBZ2xpw6mPLxPB1e-saoF_zKljHCv5ln6uIKsEHrM3qCknDb3cGItflxrPcLzZVjg.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Trophy Truck Action!
+@sochiautoparts
+sochiautopart...</title>
+<link>https://sochiautoparts.ru/post/86399</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86399</guid>
+<pubDate>Fri, 17 Apr 2026 00:02:52 GMT</pubDate>
+<description><![CDATA[Trophy Truck Action!<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Trophy Truck Action!<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>trophy</category><category>truck</category><category>action</category><category>sochiautoparts</category>
+<media:content url="https://cdn4.telesco.pe/file/7f997a4909.mp4?token=CXD90lhXMTfniqPhHmAa-ilv3IBn6xmkVNb-_ehSThdbmjGsfAEJSvfSGfXTcUh66aiFCmLMR2qcTmUfxf4H5xEcfgq8WI1uVFJOu6Qobw_7AUTwyDTyPEsz4ACYx9w_9_Mg9CYvkz8B8uycSW3VgZOMdGEQdRIQsSXkiH5r8pcT8MXenHEHSY4IP2z1LASnl2UmqTQ7zKDEggwbD48xx9W-S-yaUUTUNsLDb2ezFpfBrLIR1sY6KoRIa3qXqTs6gbOXJBL3PTl789_3APhKqj7DIQkEyKBMJIcQ9fALEgbvjgXJDA1YX4rQWKmxY-bnn3HBNKSSMKYExoNID0z3MQ" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">Trophy Truck Action!
+@sochiautoparts
+sochiautopart...</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86399"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/7f997a4909.mp4?token=CXD90lhXMTfniqPhHmAa-ilv3IBn6xmkVNb-_ehSThdbmjGsfAEJSvfSGfXTcUh66aiFCmLMR2qcTmUfxf4H5xEcfgq8WI1uVFJOu6Qobw_7AUTwyDTyPEsz4ACYx9w_9_Mg9CYvkz8B8uycSW3VgZOMdGEQdRIQsSXkiH5r8pcT8MXenHEHSY4IP2z1LASnl2UmqTQ7zKDEggwbD48xx9W-S-yaUUTUNsLDb2ezFpfBrLIR1sY6KoRIa3qXqTs6gbOXJBL3PTl789_3APhKqj7DIQkEyKBMJIcQ9fALEgbvjgXJDA1YX4rQWKmxY-bnn3HBNKSSMKYExoNID0z3MQ" type="video/mp4" />
+</item>
+<item>
+<title>1970 Plymouth Barracuda!
+V8
+@sochiautoparts
+sochia...</title>
+<link>https://sochiautoparts.ru/post/86398</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86398</guid>
+<pubDate>Thu, 16 Apr 2026 23:56:56 GMT</pubDate>
+<description><![CDATA[1970 Plymouth Barracuda!<br>V8<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[1970 Plymouth Barracuda!<br>V8<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>1970</category><category>plymouth</category><category>barracuda</category><category>sochiautoparts</category>
+<media:content url="https://cdn4.telesco.pe/file/8eb3db7f8d.mp4?token=qzgrR9Cf35IhcXGMmr_XsA2YlhQUmrrbqskjlmwcT0ifQSiVTXKaIewI7b8J22QkPMpTeNcUI0r1a1UlXf_xtcilB8pxlrVWBCGmQ_Fw_4UMJJAz0GRdK1D-2zwhJm9H3IY3ssK8LnK1zzMAjtQjpu94fy7g14JmCYE172Vu159gkADk9cGfb_He__96ffb1hUrN8r3bnEIoFw3FmZaAxKUnoZhXtiJ3Sgw1SDFTK9Q0pPMF5kQ-2S2X3cPjxADB1Phhfmt_i2lvw4eF0V6sl67gnUOKuRKsHpeMUZjssm3RJ1jV1gV-JQJnL5RgeBo1PCp2rJ1sJQGOYlXIF2BJqA" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">1970 Plymouth Barracuda!
+V8
+@sochiautoparts
+sochia...</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86398"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/8eb3db7f8d.mp4?token=qzgrR9Cf35IhcXGMmr_XsA2YlhQUmrrbqskjlmwcT0ifQSiVTXKaIewI7b8J22QkPMpTeNcUI0r1a1UlXf_xtcilB8pxlrVWBCGmQ_Fw_4UMJJAz0GRdK1D-2zwhJm9H3IY3ssK8LnK1zzMAjtQjpu94fy7g14JmCYE172Vu159gkADk9cGfb_He__96ffb1hUrN8r3bnEIoFw3FmZaAxKUnoZhXtiJ3Sgw1SDFTK9Q0pPMF5kQ-2S2X3cPjxADB1Phhfmt_i2lvw4eF0V6sl67gnUOKuRKsHpeMUZjssm3RJ1jV1gV-JQJnL5RgeBo1PCp2rJ1sJQGOYlXIF2BJqA" type="video/mp4" />
+</item>
+<item>
+<title>Mercedes-Benz S63 E Performance AMG
+@sochiautopart...</title>
+<link>https://sochiautoparts.ru/post/86397</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86397</guid>
+<pubDate>Thu, 16 Apr 2026 23:43:55 GMT</pubDate>
+<description><![CDATA[Mercedes-Benz S63 E Performance AMG<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Mercedes-Benz S63 E Performance AMG<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>mercedes</category><category>benz</category><category>s63</category><category>performance</category><category>amg</category>
+<media:content url="https://cdn4.telesco.pe/file/00ba8477d2.mp4?token=CxABPaLud9qHZyaZhGlz3bAlOju5bgNvhIOea2aBEXsutrvVfYIyzzmffJ_oMd6aGuE13ojo2KyecgZ2IH-vbwiExe95cPBYYw98oL14STRev7-hCXLJw8o9nvzpee0sWUYt8UX4tJ5v8PXig56_lnQExup9cUCU8gHgGl_uW5TIMLahh8Iwsi_lMuZwvIm8rRbYu52m1lY2-r84cNg4s_Dth79_yWIW525d4KEDRsFQB5mXu1mFV_DwG6eLOUAYbDw4e1pUlrCZwrY_m7dK2-yFEa5ifYzWPnlVJFGlNwj14Asb0Gde4FoYMV7Yd-xl6Bg3zUKrdpf1OB11e-fSOQ" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">Mercedes-Benz S63 E Performance AMG
+@sochiautopart...</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86397"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/00ba8477d2.mp4?token=CxABPaLud9qHZyaZhGlz3bAlOju5bgNvhIOea2aBEXsutrvVfYIyzzmffJ_oMd6aGuE13ojo2KyecgZ2IH-vbwiExe95cPBYYw98oL14STRev7-hCXLJw8o9nvzpee0sWUYt8UX4tJ5v8PXig56_lnQExup9cUCU8gHgGl_uW5TIMLahh8Iwsi_lMuZwvIm8rRbYu52m1lY2-r84cNg4s_Dth79_yWIW525d4KEDRsFQB5mXu1mFV_DwG6eLOUAYbDw4e1pUlrCZwrY_m7dK2-yFEa5ifYzWPnlVJFGlNwj14Asb0Gde4FoYMV7Yd-xl6Bg3zUKrdpf1OB11e-fSOQ" type="video/mp4" />
+</item>
+<item>
+<title>ABT RS6 Legacy Edition GMK 1of1
+@sochiautoparts
+so...</title>
+<link>https://sochiautoparts.ru/post/86396</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86396</guid>
+<pubDate>Thu, 16 Apr 2026 23:42:30 GMT</pubDate>
+<description><![CDATA[ABT RS6 Legacy Edition GMK 1of1<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[ABT RS6 Legacy Edition GMK 1of1<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>abt</category><category>rs6</category><category>legacy</category><category>edition</category><category>gmk</category>
+<media:content url="https://cdn4.telesco.pe/file/f0caa661ae.mp4?token=sKoAwxNKOOL8q9f4iaP-AsZ6rQPWHkrujo7XujgaRKWXpdjOZr8RJGPW64DI_cr8vOZPBI91gqp3i_CuHaCFnYzHS03rp7-q5baTvxB_KJqMknM0dFQBLXwsxmkutrLqetuYcdNTKGW9uVI8klOeGKjjK7yxr0EOw8igbw-3HRj4NACuJRgMBnwXjVlglx9eGrR10DedCVFobGH_kH6cza9gyPO7nZlFKH2a7hYnyvr4qc5jVNRlZHzHWUYXRwpjRc53QbJmgOYPTObHBaLXLCIDizOTqsVWOIcYOa829vDZizzX0UQ0rkJ-3cv9ll9CjUGA4kaI7ZoK58PqDtcWzA" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">ABT RS6 Legacy Edition GMK 1of1
+@sochiautoparts
+so...</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86396"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/f0caa661ae.mp4?token=sKoAwxNKOOL8q9f4iaP-AsZ6rQPWHkrujo7XujgaRKWXpdjOZr8RJGPW64DI_cr8vOZPBI91gqp3i_CuHaCFnYzHS03rp7-q5baTvxB_KJqMknM0dFQBLXwsxmkutrLqetuYcdNTKGW9uVI8klOeGKjjK7yxr0EOw8igbw-3HRj4NACuJRgMBnwXjVlglx9eGrR10DedCVFobGH_kH6cza9gyPO7nZlFKH2a7hYnyvr4qc5jVNRlZHzHWUYXRwpjRc53QbJmgOYPTObHBaLXLCIDizOTqsVWOIcYOa829vDZizzX0UQ0rkJ-3cv9ll9CjUGA4kaI7ZoK58PqDtcWzA" type="video/mp4" />
+</item>
+<item>
+<title>1933 Ford 3-Window Coupe Street Rod
+🔥
+3-Window Co...</title>
+<link>https://sochiautoparts.ru/post/86386</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86386</guid>
+<pubDate>Thu, 16 Apr 2026 21:27:51 GMT</pubDate>
+<description><![CDATA[1933 Ford 3-Window Coupe Street Rod<br>🔥<br>3-Window Coupe, Street Rod! 350ci V8, 4L60E Automatic, Ford 9'', Disc, PB, A/C<br>🚗<br>💨<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[1933 Ford 3-Window Coupe Street Rod<br>🔥<br>3-Window Coupe, Street Rod! 350ci V8, 4L60E Automatic, Ford 9'', Disc, PB, A/C<br>🚗<br>💨<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>1933</category><category>ford</category><category>window</category><category>coupe</category><category>street</category>
+<media:content url="https://cdn4.telesco.pe/file/T86O2vWOQO5IGmEVUDaTIxwFauCOY-UrXrDNG4i14ml2x6FhnggjuncYlx8Uv-8D0Ga3GMcvowQVXvnRFSciOFI4OARvEtpUa-hhAWWb0t1kZ7vFN2suNKO2eK2-Nf1q8HgzTPLKoWjfStWzygTkX9MJoKXJDf4Z60hA7U1LHCWw9Qi0YYwLpPUmvL2YvSXydTXl8R_P5ZZweOKwTAxxTJ44qAIyoT1gGl5TFX6-ZGDE9hSGySDjWNDBbxjH4qxfjmvuuMwIPmknFrIzV40OUmztUetetfviEiQ5snQbNV8OmAD5Y9ZN3DtVjpQSwDPUWxzjp3HzKSmsh2oUohJ1BA.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">1933 Ford 3-Window Coupe Street Rod
+🔥
+3-Window Co...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/T86O2vWOQO5IGmEVUDaTIxwFauCOY-UrXrDNG4i14ml2x6FhnggjuncYlx8Uv-8D0Ga3GMcvowQVXvnRFSciOFI4OARvEtpUa-hhAWWb0t1kZ7vFN2suNKO2eK2-Nf1q8HgzTPLKoWjfStWzygTkX9MJoKXJDf4Z60hA7U1LHCWw9Qi0YYwLpPUmvL2YvSXydTXl8R_P5ZZweOKwTAxxTJ44qAIyoT1gGl5TFX6-ZGDE9hSGySDjWNDBbxjH4qxfjmvuuMwIPmknFrIzV40OUmztUetetfviEiQ5snQbNV8OmAD5Y9ZN3DtVjpQSwDPUWxzjp3HzKSmsh2oUohJ1BA.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/T86O2vWOQO5IGmEVUDaTIxwFauCOY-UrXrDNG4i14ml2x6FhnggjuncYlx8Uv-8D0Ga3GMcvowQVXvnRFSciOFI4OARvEtpUa-hhAWWb0t1kZ7vFN2suNKO2eK2-Nf1q8HgzTPLKoWjfStWzygTkX9MJoKXJDf4Z60hA7U1LHCWw9Qi0YYwLpPUmvL2YvSXydTXl8R_P5ZZweOKwTAxxTJ44qAIyoT1gGl5TFX6-ZGDE9hSGySDjWNDBbxjH4qxfjmvuuMwIPmknFrIzV40OUmztUetetfviEiQ5snQbNV8OmAD5Y9ZN3DtVjpQSwDPUWxzjp3HzKSmsh2oUohJ1BA.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>GAC PHANTOM Concept
+@sochiautoparts
+sochiautoparts...</title>
+<link>https://sochiautoparts.ru/post/86376</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86376</guid>
+<pubDate>Thu, 16 Apr 2026 18:56:14 GMT</pubDate>
+<description><![CDATA[GAC PHANTOM Concept<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[GAC PHANTOM Concept<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>gac</category><category>phantom</category><category>concept</category><category>sochiautoparts</category>
+<media:content url="https://cdn4.telesco.pe/file/eH5yXa6hfvHWOrqFPJYQcjxLxb7q4EDyYNtsobt0a2q3RvbiFP8t5j4ked3VHHltSl6CAG0za9NpK1m6rF0LX5LJqYRFo-fS_fbD-zzd_iBEbZfjhYkYjkT6I52Y0cXp5z3Rc4UD56w125zmYeLhMN6jD8adSCOjRKEoY0TthUxSFtNfIFhWsKXbL1H6kuMTlQs55aaH-0yqfgLAa4N9KpFFwR5QUwm4BiJgoxweFJLCuoVVbhPUO-gqgPv_BfZiqP8GlVU8-g-zvuJYSopjbcm8n3Ki_wPm1FNFyd5FuCFaRK4rccoAGE2z40TT7I709hI729bX6S_uNzZ6F4z8EQ.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">GAC PHANTOM Concept
+@sochiautoparts
+sochiautoparts...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/eH5yXa6hfvHWOrqFPJYQcjxLxb7q4EDyYNtsobt0a2q3RvbiFP8t5j4ked3VHHltSl6CAG0za9NpK1m6rF0LX5LJqYRFo-fS_fbD-zzd_iBEbZfjhYkYjkT6I52Y0cXp5z3Rc4UD56w125zmYeLhMN6jD8adSCOjRKEoY0TthUxSFtNfIFhWsKXbL1H6kuMTlQs55aaH-0yqfgLAa4N9KpFFwR5QUwm4BiJgoxweFJLCuoVVbhPUO-gqgPv_BfZiqP8GlVU8-g-zvuJYSopjbcm8n3Ki_wPm1FNFyd5FuCFaRK4rccoAGE2z40TT7I709hI729bX6S_uNzZ6F4z8EQ.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/eH5yXa6hfvHWOrqFPJYQcjxLxb7q4EDyYNtsobt0a2q3RvbiFP8t5j4ked3VHHltSl6CAG0za9NpK1m6rF0LX5LJqYRFo-fS_fbD-zzd_iBEbZfjhYkYjkT6I52Y0cXp5z3Rc4UD56w125zmYeLhMN6jD8adSCOjRKEoY0TthUxSFtNfIFhWsKXbL1H6kuMTlQs55aaH-0yqfgLAa4N9KpFFwR5QUwm4BiJgoxweFJLCuoVVbhPUO-gqgPv_BfZiqP8GlVU8-g-zvuJYSopjbcm8n3Ki_wPm1FNFyd5FuCFaRK4rccoAGE2z40TT7I709hI729bX6S_uNzZ6F4z8EQ.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Спойлер на Zenvo
+@sochiautoparts
+sochiautoparts.ru...</title>
+<link>https://sochiautoparts.ru/post/86375</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86375</guid>
+<pubDate>Thu, 16 Apr 2026 18:50:36 GMT</pubDate>
+<description><![CDATA[Спойлер на Zenvo<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Спойлер на Zenvo<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>спойлер</category><category>zenvo</category><category>sochiautoparts</category>
+<media:content url="https://cdn4.telesco.pe/file/f528631ced.mp4?token=NbthxSECmDZXNlV6LXFUQA1v4gGNvE7PHcpyGJWt8tryOXAWO5KCs6iDGdr6nvY7-haFY4syMUOcAqTT-m0oel7vSF2owSXves2B7KszjUY6x8Sr1heryOI1i1YJoqikA7UZYe1kclYh2QXHzJL8NEPdJjzouSlSWV5mtXjGEu1eMNgfZCGJfCJq4qvGvsNOn7eZfWPkYaMGdpQe7i6b3ZnQHRWtJ1vscQbVMtlrM8iqY75ElYojS53wSErWSPhVLDsLWKwjjPkw1yvraDf9ff4U8D23--lmHmFdKmOIA5P72CsASw1U71hlPgj4Sohm40RScybH_Tr5b8R4mEkEvA" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">Спойлер на Zenvo
+@sochiautoparts
+sochiautoparts.ru...</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86375"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/f528631ced.mp4?token=NbthxSECmDZXNlV6LXFUQA1v4gGNvE7PHcpyGJWt8tryOXAWO5KCs6iDGdr6nvY7-haFY4syMUOcAqTT-m0oel7vSF2owSXves2B7KszjUY6x8Sr1heryOI1i1YJoqikA7UZYe1kclYh2QXHzJL8NEPdJjzouSlSWV5mtXjGEu1eMNgfZCGJfCJq4qvGvsNOn7eZfWPkYaMGdpQe7i6b3ZnQHRWtJ1vscQbVMtlrM8iqY75ElYojS53wSErWSPhVLDsLWKwjjPkw1yvraDf9ff4U8D23--lmHmFdKmOIA5P72CsASw1U71hlPgj4Sohm40RScybH_Tr5b8R4mEkEvA" type="video/mp4" />
+</item>
+<item>
+<title>Renault Alpine A110R
+@sochiautoparts
+sochiautopart...</title>
+<link>https://sochiautoparts.ru/post/86366</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86366</guid>
+<pubDate>Thu, 16 Apr 2026 18:46:18 GMT</pubDate>
+<description><![CDATA[Renault Alpine A110R<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Renault Alpine A110R<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>renault</category><category>alpine</category><category>a110r</category><category>sochiautoparts</category>
+<media:content url="https://cdn4.telesco.pe/file/eLQqadh0II7VBwd7MH1p0AAVi3TpEy_S09et1_dNn7Sin9soJD5i1m--y3G7F_viZLaJEhBc9POH1-h_hFbG38kS8RHATlTdIM75Z2C0d1_wLmAYwlOCcyFi7xj1cmiP4F_e_GBH7o47Mwk-DZAqGuakkdgAe8ji1FYw8362WNLyDmYyIU6T0OuPQ42qBNOUAUeoc6y5nCChUvvk5pfu62BmLjqGEkvj2-pi6vlXuLw3QiderG8TrztweS1JpRDyE-poHhyt_zGc48MkzFuvCsoT-zgfTewpFgNk3B1x-ATiEwPuG7-rJ61zLLMaO96BPeMf3Hsu1Vz8rfPfjSKvAA.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Renault Alpine A110R
+@sochiautoparts
+sochiautopart...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/eLQqadh0II7VBwd7MH1p0AAVi3TpEy_S09et1_dNn7Sin9soJD5i1m--y3G7F_viZLaJEhBc9POH1-h_hFbG38kS8RHATlTdIM75Z2C0d1_wLmAYwlOCcyFi7xj1cmiP4F_e_GBH7o47Mwk-DZAqGuakkdgAe8ji1FYw8362WNLyDmYyIU6T0OuPQ42qBNOUAUeoc6y5nCChUvvk5pfu62BmLjqGEkvj2-pi6vlXuLw3QiderG8TrztweS1JpRDyE-poHhyt_zGc48MkzFuvCsoT-zgfTewpFgNk3B1x-ATiEwPuG7-rJ61zLLMaO96BPeMf3Hsu1Vz8rfPfjSKvAA.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/eLQqadh0II7VBwd7MH1p0AAVi3TpEy_S09et1_dNn7Sin9soJD5i1m--y3G7F_viZLaJEhBc9POH1-h_hFbG38kS8RHATlTdIM75Z2C0d1_wLmAYwlOCcyFi7xj1cmiP4F_e_GBH7o47Mwk-DZAqGuakkdgAe8ji1FYw8362WNLyDmYyIU6T0OuPQ42qBNOUAUeoc6y5nCChUvvk5pfu62BmLjqGEkvj2-pi6vlXuLw3QiderG8TrztweS1JpRDyE-poHhyt_zGc48MkzFuvCsoT-zgfTewpFgNk3B1x-ATiEwPuG7-rJ61zLLMaO96BPeMf3Hsu1Vz8rfPfjSKvAA.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Honda возвращает Insight в Японию
+🇯🇵
+🚗
+Honda In...</title>
+<link>https://sochiautoparts.ru/post/86363</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86363</guid>
+<pubDate>Thu, 16 Apr 2026 18:42:06 GMT</pubDate>
+<description><![CDATA[Honda возвращает Insight в Японию<br>🇯🇵<br>🚗<br>Honda Insight четвёртого поколения дебютирует на домашнем рынке как кроссовер с купеобразным кузовом и полностью электрической начинкой<br>⚡️<br>🚙<br>.<br>На самом деле это местная версия Honda e:NS2 для рынка Китая<br>🇨🇳<br>. Продажи стартуют 17 апреля 2026 года тиражом 3000 экземпляров<br>📅<br>. Цена — 5 500 000 иен (≈2 630 000 ₽)<br>💴<br>.<br>Кроссовер оснащён 204-сильным электромотором<br>🔋<br>, батареей 68,8 кВт·ч и запасом хода до 535 км по WLTC<br>🛣️<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Honda возвращает Insight в Японию<br>🇯🇵<br>🚗<br>Honda Insight четвёртого поколения дебютирует на домашнем рынке как кроссовер с купеобразным кузовом и полностью электрической начинкой<br>⚡️<br>🚙<br>.<br>На самом деле это местная версия Honda e:NS2 для рынка Китая<br>🇨🇳<br>. Продажи стартуют 17 апреля 2026 года тиражом 3000 экземпляров<br>📅<br>. Цена — 5 500 000 иен (≈2 630 000 ₽)<br>💴<br>.<br>Кроссовер оснащён 204-сильным электромотором<br>🔋<br>, батареей 68,8 кВт·ч и запасом хода до 535 км по WLTC<br>🛣️<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>honda</category><category>возвращает</category><category>insight</category><category>японию</category><category>четвёртого</category>
+<media:content url="https://cdn4.telesco.pe/file/Dt9AFSDSpDEJoZOWIZGGAzdZRnL4LIZGA5zNJmbH7AhiuasfZWd5FJWGWpp61E3FFRbKotGvQ9UENtM6JPnurn_opBWxWnuP2fPtCnwLTtbheNkBmbkOQz2J3Dj8NyFxpwt9Q9FJRQUoG3s4dFlWJ8EQfd0P7_mXq8xDCpHnd2tyryKzaHtyj6HZzVusiQfMa-EfEsvrPL3YL1-1soGUVqurIWi6LTyXAjPe029eXh1k6wGzaop4AalndSBZAhkI5SBeK8lAHIn0KO6mbI3LyY2P0kiNO7nh1aBP2bj8lZIzOG4C2fpC2r7HiPMCNRhoifwWOEDNiD25CUVl4OHRjQ.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Honda возвращает Insight в Японию
+🇯🇵
+🚗
+Honda In...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/Dt9AFSDSpDEJoZOWIZGGAzdZRnL4LIZGA5zNJmbH7AhiuasfZWd5FJWGWpp61E3FFRbKotGvQ9UENtM6JPnurn_opBWxWnuP2fPtCnwLTtbheNkBmbkOQz2J3Dj8NyFxpwt9Q9FJRQUoG3s4dFlWJ8EQfd0P7_mXq8xDCpHnd2tyryKzaHtyj6HZzVusiQfMa-EfEsvrPL3YL1-1soGUVqurIWi6LTyXAjPe029eXh1k6wGzaop4AalndSBZAhkI5SBeK8lAHIn0KO6mbI3LyY2P0kiNO7nh1aBP2bj8lZIzOG4C2fpC2r7HiPMCNRhoifwWOEDNiD25CUVl4OHRjQ.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/Dt9AFSDSpDEJoZOWIZGGAzdZRnL4LIZGA5zNJmbH7AhiuasfZWd5FJWGWpp61E3FFRbKotGvQ9UENtM6JPnurn_opBWxWnuP2fPtCnwLTtbheNkBmbkOQz2J3Dj8NyFxpwt9Q9FJRQUoG3s4dFlWJ8EQfd0P7_mXq8xDCpHnd2tyryKzaHtyj6HZzVusiQfMa-EfEsvrPL3YL1-1soGUVqurIWi6LTyXAjPe029eXh1k6wGzaop4AalndSBZAhkI5SBeK8lAHIn0KO6mbI3LyY2P0kiNO7nh1aBP2bj8lZIzOG4C2fpC2r7HiPMCNRhoifwWOEDNiD25CUVl4OHRjQ.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Ford расформировал подразделение электромобилей
+🚗...</title>
+<link>https://sochiautoparts.ru/post/86362</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86362</guid>
+<pubDate>Thu, 16 Apr 2026 18:41:18 GMT</pubDate>
+<description><![CDATA[Ford расформировал подразделение электромобилей<br>🚗<br>💨<br>На фоне прошлогодних убытков Ford упраздняет подразделение Model e. Даг Филд, возглавлявший подразделение, покидает компанию<br>👋<br>.<br>Сотрудники переведены в новую общую структуру, которая займётся разработкой новых моделей компании с любыми типами силовых установок, включая электрифицированные<br>⚙️<br>🔋<br>.<br>К 2030 году 90% моделей компании будут электрифицианы, однако полного перехода на электромобили Ford больше не планирует<br>🛑<br>🔌<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Ford расформировал подразделение электромобилей<br>🚗<br>💨<br>На фоне прошлогодних убытков Ford упраздняет подразделение Model e. Даг Филд, возглавлявший подразделение, покидает компанию<br>👋<br>.<br>Сотрудники переведены в новую общую структуру, которая займётся разработкой новых моделей компании с любыми типами силовых установок, включая электрифицированные<br>⚙️<br>🔋<br>.<br>К 2030 году 90% моделей компании будут электрифицианы, однако полного перехода на электромобили Ford больше не планирует<br>🛑<br>🔌<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>ford</category><category>расформировал</category><category>подразделение</category><category>электромобилей</category><category>фоне</category>
+<media:content url="https://cdn4.telesco.pe/file/cyJt2fUqxRnRJHclXkrwtp5fVSYwHpQUUGVnIw2zlAnBAKtPF0WcYhDXynZ65SoZBE0o1XFUWVElfQy3cDK8f-syEDdAV5IKr9xs5Wc-HjccGTFcR9o3pcvhFd4ETbrzHSw43ojh4b-CkahIo8ZX-CSKX1yI9xI71_nUvVIgUAcBhaQ5VglskYa70BqQ7B5GJbIrUhfJvO-ZcPMonU7Nvu4biCZyyroGJnfdJcK_6Mw5A5z-kKCJDk6fXCfbsApHBnjajwdTzV5xt22T02ZDXbU9r_xNs8Yx8rsP0p0t0cRFWCQFULjdCleW8d83uZHmVcar6jze_-fpRydUN9H1Sw.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Ford расформировал подразделение электромобилей
+🚗...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/cyJt2fUqxRnRJHclXkrwtp5fVSYwHpQUUGVnIw2zlAnBAKtPF0WcYhDXynZ65SoZBE0o1XFUWVElfQy3cDK8f-syEDdAV5IKr9xs5Wc-HjccGTFcR9o3pcvhFd4ETbrzHSw43ojh4b-CkahIo8ZX-CSKX1yI9xI71_nUvVIgUAcBhaQ5VglskYa70BqQ7B5GJbIrUhfJvO-ZcPMonU7Nvu4biCZyyroGJnfdJcK_6Mw5A5z-kKCJDk6fXCfbsApHBnjajwdTzV5xt22T02ZDXbU9r_xNs8Yx8rsP0p0t0cRFWCQFULjdCleW8d83uZHmVcar6jze_-fpRydUN9H1Sw.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/cyJt2fUqxRnRJHclXkrwtp5fVSYwHpQUUGVnIw2zlAnBAKtPF0WcYhDXynZ65SoZBE0o1XFUWVElfQy3cDK8f-syEDdAV5IKr9xs5Wc-HjccGTFcR9o3pcvhFd4ETbrzHSw43ojh4b-CkahIo8ZX-CSKX1yI9xI71_nUvVIgUAcBhaQ5VglskYa70BqQ7B5GJbIrUhfJvO-ZcPMonU7Nvu4biCZyyroGJnfdJcK_6Mw5A5z-kKCJDk6fXCfbsApHBnjajwdTzV5xt22T02ZDXbU9r_xNs8Yx8rsP0p0t0cRFWCQFULjdCleW8d83uZHmVcar6jze_-fpRydUN9H1Sw.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>NEW Mercedes-Benz C-Class interior
+@sochiautoparts...</title>
+<link>https://sochiautoparts.ru/post/86357</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86357</guid>
+<pubDate>Thu, 16 Apr 2026 15:59:21 GMT</pubDate>
+<description><![CDATA[NEW Mercedes-Benz C-Class interior<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[NEW Mercedes-Benz C-Class interior<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>new</category><category>mercedes</category><category>benz</category><category>class</category><category>interior</category>
+<media:content url="https://cdn4.telesco.pe/file/IYQ6AysOvADaxbredQqzbSnL35JSyy0fcbkTaR-gwUPp7oSXLacNB-J-bI7OJR5uwA2F_8ZQbBVB2HprJF5OWlJ-mK2p_7dAMcFnEuF3JvxZv6t9M6YgPSF348INkrWkfmS8cDJgwB9aJquI5hI-UG1KC93K6OI12fN8DVLftyLsjLtJhbOEvZnWMxaEF4q_xc8XnQCPNglVMhnSGMZWmvIyqBSgpxNk3NhxBCrZk4GgSwvDAjFeiatL7Z8T3hPU0vf72YFU2WQe-w3VBuG21B4crEvOe6kdcIacXjPvHQJHPKRODw3WfXu-kUbHjtGtdOwhNQtd9E3ex80q_1yZSw.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">NEW Mercedes-Benz C-Class interior
+@sochiautoparts...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/IYQ6AysOvADaxbredQqzbSnL35JSyy0fcbkTaR-gwUPp7oSXLacNB-J-bI7OJR5uwA2F_8ZQbBVB2HprJF5OWlJ-mK2p_7dAMcFnEuF3JvxZv6t9M6YgPSF348INkrWkfmS8cDJgwB9aJquI5hI-UG1KC93K6OI12fN8DVLftyLsjLtJhbOEvZnWMxaEF4q_xc8XnQCPNglVMhnSGMZWmvIyqBSgpxNk3NhxBCrZk4GgSwvDAjFeiatL7Z8T3hPU0vf72YFU2WQe-w3VBuG21B4crEvOe6kdcIacXjPvHQJHPKRODw3WfXu-kUbHjtGtdOwhNQtd9E3ex80q_1yZSw.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/IYQ6AysOvADaxbredQqzbSnL35JSyy0fcbkTaR-gwUPp7oSXLacNB-J-bI7OJR5uwA2F_8ZQbBVB2HprJF5OWlJ-mK2p_7dAMcFnEuF3JvxZv6t9M6YgPSF348INkrWkfmS8cDJgwB9aJquI5hI-UG1KC93K6OI12fN8DVLftyLsjLtJhbOEvZnWMxaEF4q_xc8XnQCPNglVMhnSGMZWmvIyqBSgpxNk3NhxBCrZk4GgSwvDAjFeiatL7Z8T3hPU0vf72YFU2WQe-w3VBuG21B4crEvOe6kdcIacXjPvHQJHPKRODw3WfXu-kUbHjtGtdOwhNQtd9E3ex80q_1yZSw.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Škoda Vision O
+🚗
+, featuring 21-inch aerodynamic ...</title>
+<link>https://sochiautoparts.ru/post/86351</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86351</guid>
+<pubDate>Thu, 16 Apr 2026 14:37:07 GMT</pubDate>
+<description><![CDATA[Škoda Vision O<br>🚗<br>, featuring 21-inch aerodynamic wheels<br>🌀<br>, a 1.2-meter wide "Horizon Display"<br>📺<br>, and is fully electric<br>⚡<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Škoda Vision O<br>🚗<br>, featuring 21-inch aerodynamic wheels<br>🌀<br>, a 1.2-meter wide "Horizon Display"<br>📺<br>, and is fully electric<br>⚡<br>.<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>škoda</category><category>vision</category><category>featuring</category><category>inch</category><category>aerodynamic</category>
+<media:content url="https://cdn4.telesco.pe/file/jn7o6pEZCKUuGmY4XhmZKxVmiMAIyzl0wIjLpGQe9MDZniEjXUFOed8RH8M1Sglmnv6Juf38wulJZkQSPIaQYB-2N8x4rACCiJ0XDx-y0X6bh4QJQf60tJDaDUSkTkfFjZ_LdwY5J56or3Ghgr4HUl3Wb5Tjk4Q9lNiNmjL_rpDmD--24WHNvPoUdnz0zhZpBLz9YGfYXkr8diTdh9G8zQm6XfcOaU7P2O1dqeJWEDLbOZiyL02RKSLTGSxR9xBOHFiYvPoqjwz33xYdUF3tmQwZmvwem5bzp848eLEMUiXT_fk7UyiAcaxojnsnazNVexsunbvfU5ON19qO4AmaUA.jpg" type="image/jpeg" medium="image" width="800" height="600">
+<media:title type="plain">Škoda Vision O
+🚗
+, featuring 21-inch aerodynamic ...</media:title>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+</media:content>
+<media:thumbnail url="https://cdn4.telesco.pe/file/jn7o6pEZCKUuGmY4XhmZKxVmiMAIyzl0wIjLpGQe9MDZniEjXUFOed8RH8M1Sglmnv6Juf38wulJZkQSPIaQYB-2N8x4rACCiJ0XDx-y0X6bh4QJQf60tJDaDUSkTkfFjZ_LdwY5J56or3Ghgr4HUl3Wb5Tjk4Q9lNiNmjL_rpDmD--24WHNvPoUdnz0zhZpBLz9YGfYXkr8diTdh9G8zQm6XfcOaU7P2O1dqeJWEDLbOZiyL02RKSLTGSxR9xBOHFiYvPoqjwz33xYdUF3tmQwZmvwem5bzp848eLEMUiXT_fk7UyiAcaxojnsnazNVexsunbvfU5ON19qO4AmaUA.jpg" width="800" height="600"/>
+<enclosure url="https://cdn4.telesco.pe/file/jn7o6pEZCKUuGmY4XhmZKxVmiMAIyzl0wIjLpGQe9MDZniEjXUFOed8RH8M1Sglmnv6Juf38wulJZkQSPIaQYB-2N8x4rACCiJ0XDx-y0X6bh4QJQf60tJDaDUSkTkfFjZ_LdwY5J56or3Ghgr4HUl3Wb5Tjk4Q9lNiNmjL_rpDmD--24WHNvPoUdnz0zhZpBLz9YGfYXkr8diTdh9G8zQm6XfcOaU7P2O1dqeJWEDLbOZiyL02RKSLTGSxR9xBOHFiYvPoqjwz33xYdUF3tmQwZmvwem5bzp848eLEMUiXT_fk7UyiAcaxojnsnazNVexsunbvfU5ON19qO4AmaUA.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>Defender OCTA 2026
+@sochiautoparts
+sochiautoparts....</title>
+<link>https://sochiautoparts.ru/post/86350</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86350</guid>
+<pubDate>Thu, 16 Apr 2026 14:31:39 GMT</pubDate>
+<description><![CDATA[Defender OCTA 2026<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Defender OCTA 2026<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>defender</category><category>octa</category><category>2026</category><category>sochiautoparts</category>
+<media:content url="https://cdn4.telesco.pe/file/fd8523e001.mp4?token=Rx39P6C2ZzazHHs-UbeYTPGmlju4tPILcnmxqOTJSfaUQX3qeQOQFg74DLwYw-k60C3afHk-ZsYpuaoK_LekXu32SRJ3FGlhKXuUiCkL9jsUctFnkwGPjimVy9TaEs-65RRHFbD5GK6hYv_c96hlke9vD-NT8HbkCrBZm-QBeymCE4Jpjf1uKi_K8zHQwyarJzfv58MCpqet1cHSzbkIzM6uV9n4p75ZrgX5MVn5DeztwPOTmuhGEbakNKNbcTh3JvWYxI1d754hzs68Hw1wiA-Ba8i6ZHr7-L0tRSDPHz7lkoX-1tXFIJsY3Uadq3Ex3Af1WRJZh9GmBTJck4Wwfg" type="video/mp4" medium="video" width="1280" height="720">
+<media:title type="plain">Defender OCTA 2026
+@sochiautoparts
+sochiautoparts....</media:title>
+<media:thumbnail url="https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg" width="1280" height="720"/>
+<media:credit>SOCHIAUTOPARTS</media:credit>
+<media:player url="https://t.me/s/sochiautoparts/86350"/>
+</media:content>
+<enclosure url="https://cdn4.telesco.pe/file/fd8523e001.mp4?token=Rx39P6C2ZzazHHs-UbeYTPGmlju4tPILcnmxqOTJSfaUQX3qeQOQFg74DLwYw-k60C3afHk-ZsYpuaoK_LekXu32SRJ3FGlhKXuUiCkL9jsUctFnkwGPjimVy9TaEs-65RRHFbD5GK6hYv_c96hlke9vD-NT8HbkCrBZm-QBeymCE4Jpjf1uKi_K8zHQwyarJzfv58MCpqet1cHSzbkIzM6uV9n4p75ZrgX5MVn5DeztwPOTmuhGEbakNKNbcTh3JvWYxI1d754hzs68Hw1wiA-Ba8i6ZHr7-L0tRSDPHz7lkoX-1tXFIJsY3Uadq3Ex3Af1WRJZh9GmBTJck4Wwfg" type="video/mp4" />
+</item>
+<item>
+<title>Что произойдёт, если батарея подключаемого гибридн...</title>
+<link>https://sochiautoparts.ru/post/86349</link>
+<guid isPermaLink="true">https://sochiautoparts.ru/post/86349</guid>
+<pubDate>Thu, 16 Apr 2026 14:28:43 GMT</pubDate>
+<description><![CDATA[Что произойдёт, если батарея подключаемого гибридного автомобиля Chery подвергнется воздействию огня при температуре 1000 °C?<br>🔥<br>🚗<br>В рамках малазийского этапа конкурса Chery Super Hybrid Battery Safety Challenge компания «поджарила» аккумуляторную батарею своего подключаемого гибрида в огне при температуре 1000 °C, чтобы продемонстрировать ее безопасность и долговечность<br>🔋<br>✅<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br>]]></description>
+<content:encoded><![CDATA[Что произойдёт, если батарея подключаемого гибридного автомобиля Chery подвергнется воздействию огня при температуре 1000 °C?<br>🔥<br>🚗<br>В рамках малазийского этапа конкурса Chery Super Hybrid Battery Safety Challenge компания «поджарила» аккумуляторную батарею своего подключаемого гибрида в огне при температуре 1000 °C, чтобы продемонстрировать ее безопасность и долговечность<br>🔋<br>✅<br><a href="https://t.me/sochiautoparts" target="_blank" rel="nofollow">@sochiautoparts</a><br>sochiautoparts.ru<br><br>]]></content:encoded>
+<author>SOCHIAUTOPARTS</author>
+<source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
+<category>произойдёт</category><category>если</category><category>батарея</category><category>подключаемого</category><category>гибридного</category>
+
+
+</item>
+</channel>
+</rss>
