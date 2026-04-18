@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
-<atom:link href="https://sochiautoparts.ru/rss.xml" rel="self" type="application/rss+xml"/>
 <title>SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</title>
 <link>https://sochiautoparts.ru</link>
 <description>Автомобильные новости, обзоры и тест-драйвы от SOCHIAUTOPARTS. 30 публикаций в архиве.</description>
-<language>ru</language>
-<lastBuildDate>Sat, 18 Apr 2026 20:55:31 GMT</lastBuildDate>
-<pubDate>Sat, 18 Apr 2026 20:55:31 GMT</pubDate>
+<language>ru-ru</language>
+<lastBuildDate>Sat, 18 Apr 2026 21:36:32 GMT</lastBuildDate>
+<pubDate>Sat, 18 Apr 2026 21:36:32 GMT</pubDate>
 <ttl>10</ttl>
-<generator>SOCHIAUTOPARTS Cloudflare Worker v89.0-SEO-RSS-GLOBAL</generator>
+<generator>SOCHIAUTOPARTS Cloudflare Worker v91.0</generator>
 <managingEditor>info@sochiautoparts.ru (SOCHIAUTOPARTS)</managingEditor>
 <webMaster>info@sochiautoparts.ru (SOCHIAUTOPARTS)</webMaster>
+<dc:creator>SOCHIAUTOPARTS</dc:creator>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<atom:link href="https://sochiautoparts.ru/rss.xml" rel="self" type="application/rss+xml"/>
 <image>
 <url>https://raw.githubusercontent.com/creastudioai-beep/sap/main/main/assets/logo.jpg</url>
 <title>SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</title>
@@ -39,7 +42,7 @@
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86496"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/bd89c38356.mp4?token=SvvBUEXHjJ2AaCcHnCfO2yVUyv5lc2rnTSm8-0E6qNOh1jLhIthvmSVPpk7AONGEAxzsva9UwfKxwWq50ss1oF2XwWeg2Nd5Oje_gldR5KwgmIClEJjtjK0he2sAlt8vWgHfJiFHr_ueYvoKWuytUYxMqx_ZZ_JZCd0JVG0JoHCfJb2LeYAIG_G1luXKpyOpwYse0mKxPgcJA8JjPHfsn55q8VA31f4Od1OydovMuOJwLMy9cDCzhoz10fLVuBxkt8dGJ_GbFbmkX38fEjrlOrhd7g3pAIjFi3aVHl74nK0R1vmhyWTMAIyL87M5VH4qOKPbAFK2D1QtL4idn8z3n01dN5OGDhvM5JNwMco0v9ebtGR_M3jj1B8Y6be94y0UVe4dyEp5OTPGQrwKvYmudohsUdNygg-qBWfrF3HgJankt1DwLD_Iye3_w1y9YVzw-4qEpBegTNJyng9sn5d57o6HaPHDAq7oF5Dh9qz9bAWx_BrxET9pDg7Tu_q4UTtAQ7KQ7uoUFbuqVHLM8J2aB9Z-I-1Ze3teyUyWIG58MzR7uxG59-bkdhObfGwwXspUK25I_1TtpdcXF5JFzRbj-N4k17JHwyPryKidJOtosx-en8_YQU7uholrdxsr6LKIQ-XFPmnJwuX-qs10fktXPdgG_YJUCKPYOtJgocF0ol8" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/bd89c38356.mp4?token=SvvBUEXHjJ2AaCcHnCfO2yVUyv5lc2rnTSm8-0E6qNOh1jLhIthvmSVPpk7AONGEAxzsva9UwfKxwWq50ss1oF2XwWeg2Nd5Oje_gldR5KwgmIClEJjtjK0he2sAlt8vWgHfJiFHr_ueYvoKWuytUYxMqx_ZZ_JZCd0JVG0JoHCfJb2LeYAIG_G1luXKpyOpwYse0mKxPgcJA8JjPHfsn55q8VA31f4Od1OydovMuOJwLMy9cDCzhoz10fLVuBxkt8dGJ_GbFbmkX38fEjrlOrhd7g3pAIjFi3aVHl74nK0R1vmhyWTMAIyL87M5VH4qOKPbAFK2D1QtL4idn8z3n01dN5OGDhvM5JNwMco0v9ebtGR_M3jj1B8Y6be94y0UVe4dyEp5OTPGQrwKvYmudohsUdNygg-qBWfrF3HgJankt1DwLD_Iye3_w1y9YVzw-4qEpBegTNJyng9sn5d57o6HaPHDAq7oF5Dh9qz9bAWx_BrxET9pDg7Tu_q4UTtAQ7KQ7uoUFbuqVHLM8J2aB9Z-I-1Ze3teyUyWIG58MzR7uxG59-bkdhObfGwwXspUK25I_1TtpdcXF5JFzRbj-N4k17JHwyPryKidJOtosx-en8_YQU7uholrdxsr6LKIQ-XFPmnJwuX-qs10fktXPdgG_YJUCKPYOtJgocF0ol8" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Замечен BMW M5 LCI 2028 года!
@@ -61,7 +64,7 @@ soch...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86495"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/552d8705ba.mp4?token=GbxuPG29gihQl7Od1iQQjLRnsZufNYZ6y1K9aZPvh4NA8AlfsOrNhcAH0HnrCvHf82-mL-dKP8Vf5rw723w-11ynXMjOfHa8GWP6F6wI0Zz4mO8-9YxhZTCuFI3Y701s7BWI8H8MuVZeALa2a5eDJ2Co648Z4PIpcVLWEjg2H9Ey78Dx2ENW6xReDmVUB4NsePTQkRLO1WZ8Mutr-31kVfFzyEJbetdH0IND3b8fc7hAdmACkS6ukxs-xybfPGp7_4vcv7VR3Dhfy9PK6Fn4kA28m8mcnbtZBr_s0nrE4i9Ne_t32p3iMuYfn9VADajp_KEXP8v3t1pMQm3TxhJBa0pCdjsJaslrU8Li13zJ13VSfIFbIgMz4O3Fn2FOPsxe9u-A9oo-p_YWI4l-dhHO5L6vGTR00WjMbFRG49_kZodfHqq_peORfafrdKobu9gpgMWadLaLsCuOOnVB0zS0n4eWZJ_vhHdUJGTWADd-bdE6KDcyteMbuaIOSu6hqqBT09KmtbdET5IzkYD-rRy4XFpuE2OM5_FHZpl4rhGLOU0T0-kxtPGMsvbxIvfp4Tjb17gZJdin4pt7vYSu-z7IeY4mUP0g531G6Ff6dMq8tGuKyY9YeyrtDHJg7QPX2aOczVvtV5SvLi0lcjaAfKsTrvlXUfikOopizap8CgNxgBQ" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/552d8705ba.mp4?token=GbxuPG29gihQl7Od1iQQjLRnsZufNYZ6y1K9aZPvh4NA8AlfsOrNhcAH0HnrCvHf82-mL-dKP8Vf5rw723w-11ynXMjOfHa8GWP6F6wI0Zz4mO8-9YxhZTCuFI3Y701s7BWI8H8MuVZeALa2a5eDJ2Co648Z4PIpcVLWEjg2H9Ey78Dx2ENW6xReDmVUB4NsePTQkRLO1WZ8Mutr-31kVfFzyEJbetdH0IND3b8fc7hAdmACkS6ukxs-xybfPGp7_4vcv7VR3Dhfy9PK6Fn4kA28m8mcnbtZBr_s0nrE4i9Ne_t32p3iMuYfn9VADajp_KEXP8v3t1pMQm3TxhJBa0pCdjsJaslrU8Li13zJ13VSfIFbIgMz4O3Fn2FOPsxe9u-A9oo-p_YWI4l-dhHO5L6vGTR00WjMbFRG49_kZodfHqq_peORfafrdKobu9gpgMWadLaLsCuOOnVB0zS0n4eWZJ_vhHdUJGTWADd-bdE6KDcyteMbuaIOSu6hqqBT09KmtbdET5IzkYD-rRy4XFpuE2OM5_FHZpl4rhGLOU0T0-kxtPGMsvbxIvfp4Tjb17gZJdin4pt7vYSu-z7IeY4mUP0g531G6Ff6dMq8tGuKyY9YeyrtDHJg7QPX2aOczVvtV5SvLi0lcjaAfKsTrvlXUfikOopizap8CgNxgBQ" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>BMW M2 with over 1000 horsepower
@@ -83,7 +86,7 @@ s...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86494"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/d6a1c93ac9.mp4?token=FUX9v3MuUzImq-vZ5goexS8tuRk4LcZwbZRA1cal1qfELcfERc_RKszTF7M47_JWdC2ACD6QfzvzB35ZXO7Akut5o89YgGZWLngUEQXlMjmKpvN2X8a8zJx6lkAxsacUnzpfyIRgXGAs-TpL0K2DxvONMnwWorZTRF6I7BnfEHqfyDsrHsRaXaoeDxk76l2TlPhghHwQQbT5djLsGZnOzCRr172ygZYdwdO20Hbwa1S4lI73fCOmtWtrd1hQxAH6rAoO9QIRFQEZq6n1XkljA8kYAA2QkyZZAk0ivb3AJYYuY2mfqlzucKdnW_HUws1A1huqetbo7NlLFTPsvIRtLA" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/d6a1c93ac9.mp4?token=FUX9v3MuUzImq-vZ5goexS8tuRk4LcZwbZRA1cal1qfELcfERc_RKszTF7M47_JWdC2ACD6QfzvzB35ZXO7Akut5o89YgGZWLngUEQXlMjmKpvN2X8a8zJx6lkAxsacUnzpfyIRgXGAs-TpL0K2DxvONMnwWorZTRF6I7BnfEHqfyDsrHsRaXaoeDxk76l2TlPhghHwQQbT5djLsGZnOzCRr172ygZYdwdO20Hbwa1S4lI73fCOmtWtrd1hQxAH6rAoO9QIRFQEZq6n1XkljA8kYAA2QkyZZAk0ivb3AJYYuY2mfqlzucKdnW_HUws1A1huqetbo7NlLFTPsvIRtLA" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>BYD выпустила 16-миллионный электромобиль
@@ -102,7 +105,7 @@ BYD объя...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Vw7B849OrLptUkTagT3LKAoIxEjr2sHUABGF9VS3wxsEnhdV4hb283kFkvh-Tbg3RmopIGRjRVb4mb5uilzdpe-NLGsGpdEyc2u_kBiPLGzIaNF5he4FxSTP94beygS2QkhXv8CGkn4I1oDIlyhkIpkz1B5MEv3K2nDUs5q74TfgqS85k7P21D0wchX1vag8eMLh44D4FM_0rOWA79oznXfqeoBz4i-B1TtjzkwTBVrrvYVx-fqBy3qrgK1d_i8R8FN1XiHeGwnbPJ40ypXw9e6te0XtNllUXYDZYtT4KDldLeoGKfuWQQUGIODGN6Y2cENKPDXwlNmDoVuKkBQ-6A.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Vw7B849OrLptUkTagT3LKAoIxEjr2sHUABGF9VS3wxsEnhdV4hb283kFkvh-Tbg3RmopIGRjRVb4mb5uilzdpe-NLGsGpdEyc2u_kBiPLGzIaNF5he4FxSTP94beygS2QkhXv8CGkn4I1oDIlyhkIpkz1B5MEv3K2nDUs5q74TfgqS85k7P21D0wchX1vag8eMLh44D4FM_0rOWA79oznXfqeoBz4i-B1TtjzkwTBVrrvYVx-fqBy3qrgK1d_i8R8FN1XiHeGwnbPJ40ypXw9e6te0XtNllUXYDZYtT4KDldLeoGKfuWQQUGIODGN6Y2cENKPDXwlNmDoVuKkBQ-6A.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Vw7B849OrLptUkTagT3LKAoIxEjr2sHUABGF9VS3wxsEnhdV4hb283kFkvh-Tbg3RmopIGRjRVb4mb5uilzdpe-NLGsGpdEyc2u_kBiPLGzIaNF5he4FxSTP94beygS2QkhXv8CGkn4I1oDIlyhkIpkz1B5MEv3K2nDUs5q74TfgqS85k7P21D0wchX1vag8eMLh44D4FM_0rOWA79oznXfqeoBz4i-B1TtjzkwTBVrrvYVx-fqBy3qrgK1d_i8R8FN1XiHeGwnbPJ40ypXw9e6te0XtNllUXYDZYtT4KDldLeoGKfuWQQUGIODGN6Y2cENKPDXwlNmDoVuKkBQ-6A.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Mercedes показал удлинённый электрический GLC
@@ -121,7 +124,7 @@ BYD объя...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/YUM1MqqsMhk7q1liSYng5mVgkJNeZ2NbdDC_DpY1jkfd9Od-ibwzPkQDC71s2UEk60TWn8IHgGjfAusg8dzfT_0aPR3rq9RCbLdt5dIw69l6O9U1yCRhGdZU8raR2SL0J36cWmvnqFa1WVegGXIAWTZ1rVbGE4rqiYlLBU0ElOH0_7u5Dhp3i-m3YcwxsZbWQ-mLjFqMloK42QA-7UpLULvn3_2CrWjKr4qjCSw8u-JgCURSiQenvdOJLJLu3mI8kMzh-Ky-nFB82Su2gbo5bIw981eO23a8s4rkOmnOD6ZjSxB-Ev3-SLL-4tX6azaQBH9MfLvBr-r4bSecXXKheA.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/YUM1MqqsMhk7q1liSYng5mVgkJNeZ2NbdDC_DpY1jkfd9Od-ibwzPkQDC71s2UEk60TWn8IHgGjfAusg8dzfT_0aPR3rq9RCbLdt5dIw69l6O9U1yCRhGdZU8raR2SL0J36cWmvnqFa1WVegGXIAWTZ1rVbGE4rqiYlLBU0ElOH0_7u5Dhp3i-m3YcwxsZbWQ-mLjFqMloK42QA-7UpLULvn3_2CrWjKr4qjCSw8u-JgCURSiQenvdOJLJLu3mI8kMzh-Ky-nFB82Su2gbo5bIw981eO23a8s4rkOmnOD6ZjSxB-Ev3-SLL-4tX6azaQBH9MfLvBr-r4bSecXXKheA.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/YUM1MqqsMhk7q1liSYng5mVgkJNeZ2NbdDC_DpY1jkfd9Od-ibwzPkQDC71s2UEk60TWn8IHgGjfAusg8dzfT_0aPR3rq9RCbLdt5dIw69l6O9U1yCRhGdZU8raR2SL0J36cWmvnqFa1WVegGXIAWTZ1rVbGE4rqiYlLBU0ElOH0_7u5Dhp3i-m3YcwxsZbWQ-mLjFqMloK42QA-7UpLULvn3_2CrWjKr4qjCSw8u-JgCURSiQenvdOJLJLu3mI8kMzh-Ky-nFB82Su2gbo5bIw981eO23a8s4rkOmnOD6ZjSxB-Ev3-SLL-4tX6azaQBH9MfLvBr-r4bSecXXKheA.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Новый Renault 4 получил теннисную версию
@@ -140,7 +143,7 @@ Renault п...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Xc6_nOG_kEGFwcM9C7ioXKFusP2ciYjvDfnZUHmV_WeTC8DtexoOvnWm9Eg3ax8WF58wnWPxXfEQBhTwPXqGfbgeQNextyvfOqSS2f-ObwtAOgwyT2kFfJOAm1VTULzG62i_hy4TEUh0tG5YkmgHDm9b-x3lIpCrXzSvc4SK4Whq-EbJBx7MV8nEExAFkhkSXfYJoHX9TACux-pC0OmFmbAYS4eb5qgrQyJrH91Hb401mrKrIsMM5SUvCKAYVO6eoVKiOzktzQajw9NbXRx9ugkhQ-fMbVDr8c2Y5c1XXAvzDP9Z9H2YSg2w73T_AEaLmgjT7YCIFKo2SiXQfhENgg.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Xc6_nOG_kEGFwcM9C7ioXKFusP2ciYjvDfnZUHmV_WeTC8DtexoOvnWm9Eg3ax8WF58wnWPxXfEQBhTwPXqGfbgeQNextyvfOqSS2f-ObwtAOgwyT2kFfJOAm1VTULzG62i_hy4TEUh0tG5YkmgHDm9b-x3lIpCrXzSvc4SK4Whq-EbJBx7MV8nEExAFkhkSXfYJoHX9TACux-pC0OmFmbAYS4eb5qgrQyJrH91Hb401mrKrIsMM5SUvCKAYVO6eoVKiOzktzQajw9NbXRx9ugkhQ-fMbVDr8c2Y5c1XXAvzDP9Z9H2YSg2w73T_AEaLmgjT7YCIFKo2SiXQfhENgg.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Xc6_nOG_kEGFwcM9C7ioXKFusP2ciYjvDfnZUHmV_WeTC8DtexoOvnWm9Eg3ax8WF58wnWPxXfEQBhTwPXqGfbgeQNextyvfOqSS2f-ObwtAOgwyT2kFfJOAm1VTULzG62i_hy4TEUh0tG5YkmgHDm9b-x3lIpCrXzSvc4SK4Whq-EbJBx7MV8nEExAFkhkSXfYJoHX9TACux-pC0OmFmbAYS4eb5qgrQyJrH91Hb401mrKrIsMM5SUvCKAYVO6eoVKiOzktzQajw9NbXRx9ugkhQ-fMbVDr8c2Y5c1XXAvzDP9Z9H2YSg2w73T_AEaLmgjT7YCIFKo2SiXQfhENgg.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Редкий Mercedes CLK DTM почти без пробега оценили ...</title>
@@ -157,7 +160,7 @@ Renault п...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/R_in-870sYPU5LxkfGi8KMya-bkI6LTyj8WVfjFeAAqtU5DnpU419RHrl-QxWOxm3Lkevg8Lvj2APbXE1TcD1RQ0kUZkP796veEe5zeTt3SFA-RX0eXNDkGAztj65Sq6fjKqk6W3AfFfLl4O25cpGMpITj8HlKxuqBtWc9vV51kD_5NF917xo_ZKaNlZR9fAzYHCCGXyE_JIi7vPEkb-LHiD6G12H2fT-B5BiGwpX2vUlSNT4fXBGcPJ0J0pLW_FXwfTXHAZ39gSP5suRlQAZovH7lP_ZJoQcnK-l8vwo4NtaJRnsfxzcBlvUDHOJHiGeGYzVXlLglUy4bHNn2f6Og.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/R_in-870sYPU5LxkfGi8KMya-bkI6LTyj8WVfjFeAAqtU5DnpU419RHrl-QxWOxm3Lkevg8Lvj2APbXE1TcD1RQ0kUZkP796veEe5zeTt3SFA-RX0eXNDkGAztj65Sq6fjKqk6W3AfFfLl4O25cpGMpITj8HlKxuqBtWc9vV51kD_5NF917xo_ZKaNlZR9fAzYHCCGXyE_JIi7vPEkb-LHiD6G12H2fT-B5BiGwpX2vUlSNT4fXBGcPJ0J0pLW_FXwfTXHAZ39gSP5suRlQAZovH7lP_ZJoQcnK-l8vwo4NtaJRnsfxzcBlvUDHOJHiGeGYzVXlLglUy4bHNn2f6Og.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/R_in-870sYPU5LxkfGi8KMya-bkI6LTyj8WVfjFeAAqtU5DnpU419RHrl-QxWOxm3Lkevg8Lvj2APbXE1TcD1RQ0kUZkP796veEe5zeTt3SFA-RX0eXNDkGAztj65Sq6fjKqk6W3AfFfLl4O25cpGMpITj8HlKxuqBtWc9vV51kD_5NF917xo_ZKaNlZR9fAzYHCCGXyE_JIi7vPEkb-LHiD6G12H2fT-B5BiGwpX2vUlSNT4fXBGcPJ0J0pLW_FXwfTXHAZ39gSP5suRlQAZovH7lP_ZJoQcnK-l8vwo4NtaJRnsfxzcBlvUDHOJHiGeGYzVXlLglUy4bHNn2f6Og.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Mustang GTD Competition проехал круг за 6:40.835 —...</title>
@@ -175,7 +178,7 @@ Renault п...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86480"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/eb6ff97fca.mp4?token=vQxrhjmYC3XcZpEkEPl5JrOktAMMIwQj0hE3lpdT8MjLt05Vbp2DJ9qcUmgOG3inwZLcs9MathHRuPTFyTHouQs7V8uIH9FxPoPTStkW37w1y18jpiADbi9cvJpKogC9hJuv7HIUOxJplicQiooGm0lZmNkjF1eSncuA9uvwEyWxmdvadoJcZrnZpTgOtBSnxGwiCfnBYkbk95CgYxYMpoGeyCL6SEHKxKUolj262PgLgNWktmX7RTGT7xN532GWtuqYZKW_ZVoVPMEgRiBMoohMCMPSjXG0HMo-rafAiQr1oLMf7fHx6VnZ-Hlrm_eNzXsNW2-1EbJKsFg-bdagIUGX2MbagFS2KTardYdXzCIT3utSbVtWaZ7QkX4cR30zWX57YbeL9JyBsXvTEZ7A7F5rTXCBZgAkt0hKhe804nbR--6bFTne8DhZP3WdF6y1_EH0yWhxM5ZHeQDrdJwTzlH3K__bKUjw5U9LDw0vWO7FWRzTaVU0WPcSNf4QMlEESMHmCR224cFUmC2OTsv3A3zp2PZQdGFFlto-Y-C_ElYvlfqIP3gDyWY56UIfgzGyt7mAaQVfZ59pjl82dsV0VqaLJ8Wl_5E5b4n3j2G5C4GdMTO0rkW7c4AceIGm0FPlJlsWYfjmi9sh53NNObjJRGHX59421A3F_8I-IOEHpnk" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/eb6ff97fca.mp4?token=vQxrhjmYC3XcZpEkEPl5JrOktAMMIwQj0hE3lpdT8MjLt05Vbp2DJ9qcUmgOG3inwZLcs9MathHRuPTFyTHouQs7V8uIH9FxPoPTStkW37w1y18jpiADbi9cvJpKogC9hJuv7HIUOxJplicQiooGm0lZmNkjF1eSncuA9uvwEyWxmdvadoJcZrnZpTgOtBSnxGwiCfnBYkbk95CgYxYMpoGeyCL6SEHKxKUolj262PgLgNWktmX7RTGT7xN532GWtuqYZKW_ZVoVPMEgRiBMoohMCMPSjXG0HMo-rafAiQr1oLMf7fHx6VnZ-Hlrm_eNzXsNW2-1EbJKsFg-bdagIUGX2MbagFS2KTardYdXzCIT3utSbVtWaZ7QkX4cR30zWX57YbeL9JyBsXvTEZ7A7F5rTXCBZgAkt0hKhe804nbR--6bFTne8DhZP3WdF6y1_EH0yWhxM5ZHeQDrdJwTzlH3K__bKUjw5U9LDw0vWO7FWRzTaVU0WPcSNf4QMlEESMHmCR224cFUmC2OTsv3A3zp2PZQdGFFlto-Y-C_ElYvlfqIP3gDyWY56UIfgzGyt7mAaQVfZ59pjl82dsV0VqaLJ8Wl_5E5b4n3j2G5C4GdMTO0rkW7c4AceIGm0FPlJlsWYfjmi9sh53NNObjJRGHX59421A3F_8I-IOEHpnk" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Новая Lancia Ypsilon получила «механику»
@@ -194,7 +197,7 @@ Lancia до...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/R1nx86D3JaysjCdSijF6Slz12va4jeMyCPQEdXone7gnyYGkfiYa7S-RVqB9kokkQZ_lGUXmV16bOcapdotMjz5ZQOk1Vxt3VJd5-SrAQWyWM68T5lEBI-4mdDuqd_Li-YEN_9T4Kn2Dkh9E8q59F6LJIDPKP8wdL4G4rqiOK1GSIcGi9EMZxVi1aJPNZhZ5b9VBAxjqFAG1BHJ5kOxq8E--N4wJzRckyHI7NrjyIdfT2pO_E-_oFY1pQsmzolhQ1P16hcOJjsQojWD25JKuiTPFMjIrf2gtSdktfmG1-b5Rp3Vw5F5aJzy_M89msvIloM37m7zA0okwzbgJsqRVJg.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/R1nx86D3JaysjCdSijF6Slz12va4jeMyCPQEdXone7gnyYGkfiYa7S-RVqB9kokkQZ_lGUXmV16bOcapdotMjz5ZQOk1Vxt3VJd5-SrAQWyWM68T5lEBI-4mdDuqd_Li-YEN_9T4Kn2Dkh9E8q59F6LJIDPKP8wdL4G4rqiOK1GSIcGi9EMZxVi1aJPNZhZ5b9VBAxjqFAG1BHJ5kOxq8E--N4wJzRckyHI7NrjyIdfT2pO_E-_oFY1pQsmzolhQ1P16hcOJjsQojWD25JKuiTPFMjIrf2gtSdktfmG1-b5Rp3Vw5F5aJzy_M89msvIloM37m7zA0okwzbgJsqRVJg.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/R1nx86D3JaysjCdSijF6Slz12va4jeMyCPQEdXone7gnyYGkfiYa7S-RVqB9kokkQZ_lGUXmV16bOcapdotMjz5ZQOk1Vxt3VJd5-SrAQWyWM68T5lEBI-4mdDuqd_Li-YEN_9T4Kn2Dkh9E8q59F6LJIDPKP8wdL4G4rqiOK1GSIcGi9EMZxVi1aJPNZhZ5b9VBAxjqFAG1BHJ5kOxq8E--N4wJzRckyHI7NrjyIdfT2pO_E-_oFY1pQsmzolhQ1P16hcOJjsQojWD25JKuiTPFMjIrf2gtSdktfmG1-b5Rp3Vw5F5aJzy_M89msvIloM37m7zA0okwzbgJsqRVJg.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Chery готовит новый рамный пикап с дизелем и полны...</title>
@@ -211,7 +214,7 @@ Lancia до...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Wbc3N46zzT3k4Txp2QvrFQfbJMxxRUe6n-jwuW-fkd6unlbzQWA6Uur4LS_QkxfdQOwnhjz3Gr2njiJPP3Wha52rZX8s357Vhh5btI6UGoAeHbB14YMzKMLJiq0NDu4kRU_9vIQWGkQAkD17qUvQb0aNLyTveo07jrGPlkMdyrB41LxpbbzF0nA0mbhL5CmeAnFZS30HG-5OZupEz0W2L70X6Q3m797NOsM3qixOebBmW7bq7bvhNrrRCwb7D9JF-1aq3CUkHnV3pFYewBoYXVGJJ7pfz04aQ0YLneHDvTmlSmBN_Wr19qFediN4y7S3WeCtqvQUOLSWF07qseSuvw.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Wbc3N46zzT3k4Txp2QvrFQfbJMxxRUe6n-jwuW-fkd6unlbzQWA6Uur4LS_QkxfdQOwnhjz3Gr2njiJPP3Wha52rZX8s357Vhh5btI6UGoAeHbB14YMzKMLJiq0NDu4kRU_9vIQWGkQAkD17qUvQb0aNLyTveo07jrGPlkMdyrB41LxpbbzF0nA0mbhL5CmeAnFZS30HG-5OZupEz0W2L70X6Q3m797NOsM3qixOebBmW7bq7bvhNrrRCwb7D9JF-1aq3CUkHnV3pFYewBoYXVGJJ7pfz04aQ0YLneHDvTmlSmBN_Wr19qFediN4y7S3WeCtqvQUOLSWF07qseSuvw.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Wbc3N46zzT3k4Txp2QvrFQfbJMxxRUe6n-jwuW-fkd6unlbzQWA6Uur4LS_QkxfdQOwnhjz3Gr2njiJPP3Wha52rZX8s357Vhh5btI6UGoAeHbB14YMzKMLJiq0NDu4kRU_9vIQWGkQAkD17qUvQb0aNLyTveo07jrGPlkMdyrB41LxpbbzF0nA0mbhL5CmeAnFZS30HG-5OZupEz0W2L70X6Q3m797NOsM3qixOebBmW7bq7bvhNrrRCwb7D9JF-1aq3CUkHnV3pFYewBoYXVGJJ7pfz04aQ0YLneHDvTmlSmBN_Wr19qFediN4y7S3WeCtqvQUOLSWF07qseSuvw.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Tesla будет ШТРАФОВАТЬ за перепродажу прощальных в...</title>
@@ -228,7 +231,7 @@ Lancia до...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/ZyjqNOQ8QY5HS_pRalm2QP2gGTbukWrxyHoXj3K-wQKFNSyoP3kOqp1zsEEutnP7DBfdua_qiQ-liAta39mUIe_2gA-uIgj8aW6osUM3e6N-6eLy-mervSQUzT8z3hXUCjirHAj97FFFfL1tebIuvdjQwQskpZT2KfVvkp83LrEO3oZKsRPXu4GyAyqC9kAF3iNnjs_xgqXmzHh1BrDD9IN9JC7TADVbIf7JigHOZAOTJLukgd6Qbv33B-amDyMq0eS923YRdrYbn1A11BlUqK7AEDvTtgiw09Ib0yYIOn0-2kB0OSW6oCCmKCrFbzLenDN0xK9tnuLBoM1tJw7oUw.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/ZyjqNOQ8QY5HS_pRalm2QP2gGTbukWrxyHoXj3K-wQKFNSyoP3kOqp1zsEEutnP7DBfdua_qiQ-liAta39mUIe_2gA-uIgj8aW6osUM3e6N-6eLy-mervSQUzT8z3hXUCjirHAj97FFFfL1tebIuvdjQwQskpZT2KfVvkp83LrEO3oZKsRPXu4GyAyqC9kAF3iNnjs_xgqXmzHh1BrDD9IN9JC7TADVbIf7JigHOZAOTJLukgd6Qbv33B-amDyMq0eS923YRdrYbn1A11BlUqK7AEDvTtgiw09Ib0yYIOn0-2kB0OSW6oCCmKCrFbzLenDN0xK9tnuLBoM1tJw7oUw.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/ZyjqNOQ8QY5HS_pRalm2QP2gGTbukWrxyHoXj3K-wQKFNSyoP3kOqp1zsEEutnP7DBfdua_qiQ-liAta39mUIe_2gA-uIgj8aW6osUM3e6N-6eLy-mervSQUzT8z3hXUCjirHAj97FFFfL1tebIuvdjQwQskpZT2KfVvkp83LrEO3oZKsRPXu4GyAyqC9kAF3iNnjs_xgqXmzHh1BrDD9IN9JC7TADVbIf7JigHOZAOTJLukgd6Qbv33B-amDyMq0eS923YRdrYbn1A11BlUqK7AEDvTtgiw09Ib0yYIOn0-2kB0OSW6oCCmKCrFbzLenDN0xK9tnuLBoM1tJw7oUw.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Mercedes Benz AMG GLE
@@ -250,7 +253,7 @@ sochiautopar...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86468"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/df21377878.mp4?token=sJtLgaxtJVLKUtEDUh2Nujg7IHpdKICsDLtTka_t1ohk3R4yj7rDxzb5-rDiY55XSsLE-lPnr_LI232SOsKRADlwxVS4QuIiPzpFaWsX6LD9M6AST2WOlkh12j4NfJqgK5MdBJDGJVyOTP_8MyERp6tV74GK0kDiBQ2peYUExfa6BJJKdfHkPPFwUADw79DE9j1SaHu2jcJOFAje72VU0UhE0uoiOlhnrWe_v8Yv9LK5kw_wNwOAGStxHDDqY5OPNXV32z5HNSdm09iTzTPi5ptYxithX86hqbjqG9VvblkTiqWCBfngyInA5Ub1JDouMeKmvIWnSiqy-aGOllpm0g" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/df21377878.mp4?token=sJtLgaxtJVLKUtEDUh2Nujg7IHpdKICsDLtTka_t1ohk3R4yj7rDxzb5-rDiY55XSsLE-lPnr_LI232SOsKRADlwxVS4QuIiPzpFaWsX6LD9M6AST2WOlkh12j4NfJqgK5MdBJDGJVyOTP_8MyERp6tV74GK0kDiBQ2peYUExfa6BJJKdfHkPPFwUADw79DE9j1SaHu2jcJOFAje72VU0UhE0uoiOlhnrWe_v8Yv9LK5kw_wNwOAGStxHDDqY5OPNXV32z5HNSdm09iTzTPi5ptYxithX86hqbjqG9VvblkTiqWCBfngyInA5Ub1JDouMeKmvIWnSiqy-aGOllpm0g" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>https://goo.su/QRvFB
@@ -269,7 +272,7 @@ sochiautopar...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Im98BztKWdLMCm294vELLPev4-xg8IuoRQyITP6Ds9GglHQYjoseE9p6g8GmJOJ87r20OjGtK6ywd66k11BGy-_Gg9Dv-IDOAJs6Ww-jFTDZ4Hv-i7AzQ4POpOm21OawLE58m3h_ACTh-ELEOzFd2YMW4wvWRXwR3ramzr-K9w6HlNR3Zqj2Ww5qSsj4mj3re5Sa7N2iwCn3Fq9a5aMK22mKzz0nfirr11Lrz01FEKcjCTwrCBpGTQx-MSK8bKIBHEMd3XB1OXn7k7u9NFii-rZNLhEHXNz4ggYsqn4qHIeEzaGbHS68Qec81i5mxR3MOriYpHjJEF6VZBc4jw6F8A.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Im98BztKWdLMCm294vELLPev4-xg8IuoRQyITP6Ds9GglHQYjoseE9p6g8GmJOJ87r20OjGtK6ywd66k11BGy-_Gg9Dv-IDOAJs6Ww-jFTDZ4Hv-i7AzQ4POpOm21OawLE58m3h_ACTh-ELEOzFd2YMW4wvWRXwR3ramzr-K9w6HlNR3Zqj2Ww5qSsj4mj3re5Sa7N2iwCn3Fq9a5aMK22mKzz0nfirr11Lrz01FEKcjCTwrCBpGTQx-MSK8bKIBHEMd3XB1OXn7k7u9NFii-rZNLhEHXNz4ggYsqn4qHIeEzaGbHS68Qec81i5mxR3MOriYpHjJEF6VZBc4jw6F8A.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Im98BztKWdLMCm294vELLPev4-xg8IuoRQyITP6Ds9GglHQYjoseE9p6g8GmJOJ87r20OjGtK6ywd66k11BGy-_Gg9Dv-IDOAJs6Ww-jFTDZ4Hv-i7AzQ4POpOm21OawLE58m3h_ACTh-ELEOzFd2YMW4wvWRXwR3ramzr-K9w6HlNR3Zqj2Ww5qSsj4mj3re5Sa7N2iwCn3Fq9a5aMK22mKzz0nfirr11Lrz01FEKcjCTwrCBpGTQx-MSK8bKIBHEMd3XB1OXn7k7u9NFii-rZNLhEHXNz4ggYsqn4qHIeEzaGbHS68Qec81i5mxR3MOriYpHjJEF6VZBc4jw6F8A.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>2006 Ford GT
@@ -293,7 +296,7 @@ sochiautoparts.ru
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86466"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/4fdab26be2.mp4?token=PHfq_cJ8VZvKAIf_STo4XccfVNZ549DtpafZI31-3FGj3G3sKKrI36zhJPfST6ayK_RlQ0dxRsYdqv4J1ga5SI-lU3pKGdiZzr_c9N9x_sh497yuG0G_OESfKWJtNWtN_MFWQoC31BPIP5nBPVUrI7gCFt1P400GEmzVqs4HoU-7UlsdL9QdxZUGtglrjlPDwFoy5iLN5EW4wS_FpTcAKgm9pP0Ca3Z-jFnPCWPfin-pNV6OsCi9e0G4K0HML32VHFnjocQjy5oHAbdQsRrbRSblbOgFv5XqWBZCfozffAbNbEA-fCXBQ_sBMoCYUQxLrwzi5mH85_rUjpa-O1cMjw" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/4fdab26be2.mp4?token=PHfq_cJ8VZvKAIf_STo4XccfVNZ549DtpafZI31-3FGj3G3sKKrI36zhJPfST6ayK_RlQ0dxRsYdqv4J1ga5SI-lU3pKGdiZzr_c9N9x_sh497yuG0G_OESfKWJtNWtN_MFWQoC31BPIP5nBPVUrI7gCFt1P400GEmzVqs4HoU-7UlsdL9QdxZUGtglrjlPDwFoy5iLN5EW4wS_FpTcAKgm9pP0Ca3Z-jFnPCWPfin-pNV6OsCi9e0G4K0HML32VHFnjocQjy5oHAbdQsRrbRSblbOgFv5XqWBZCfozffAbNbEA-fCXBQ_sBMoCYUQxLrwzi5mH85_rUjpa-O1cMjw" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Trophy Trucks
@@ -317,7 +320,7 @@ sochiautoparts.ru
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86465"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/8cf4843977.mp4?token=RaBHP9BHRgTAdMcmYpJZVQrUznv3Py6GmSQXF5r8bQgdOwLmd7pfksf8iRtSpqyliJ04RUW6kSwzxEMviD9n6wx-jCyc9lIDZEjiUFtQlXUMCljfE3hgPsF1V6EK2npKn_SWLLkA4dokh9MwrdM-yWg09xxDlPQ1yXtfb-UH3sYO4uno9ag9-WY-lUSGoM8kOoG6LDxmBvKLd53McyiIc1zBBGOgM0PK6_7Yg6Msf7Zg4GOH6Ott5mY0zWXWTwqT4JDFOn9LJWI6KlnpnwZMWgtkSokGuMmT9JhoKl9x0VgL3zuFwvOpRqo7uE00Q18h0mJsPhvTwExHNUUZtaHlCQ" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/8cf4843977.mp4?token=RaBHP9BHRgTAdMcmYpJZVQrUznv3Py6GmSQXF5r8bQgdOwLmd7pfksf8iRtSpqyliJ04RUW6kSwzxEMviD9n6wx-jCyc9lIDZEjiUFtQlXUMCljfE3hgPsF1V6EK2npKn_SWLLkA4dokh9MwrdM-yWg09xxDlPQ1yXtfb-UH3sYO4uno9ag9-WY-lUSGoM8kOoG6LDxmBvKLd53McyiIc1zBBGOgM0PK6_7Yg6Msf7Zg4GOH6Ott5mY0zWXWTwqT4JDFOn9LJWI6KlnpnwZMWgtkSokGuMmT9JhoKl9x0VgL3zuFwvOpRqo7uE00Q18h0mJsPhvTwExHNUUZtaHlCQ" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Volkswagen показала жирный электрокроссовер всего ...</title>
@@ -334,7 +337,7 @@ sochiautoparts.ru
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Cvd0UwwopElXm_rXvTr6m-ijK3FlTHcXu8SUwTbRHX86U3JjnnqTkPJK7J6Qh-CeWsmQRHZ2_P7eT2iS1kqw646xDxqht0fEMXIifXTWtU4hK6gqiQEMvyArxaOZ6Ex1uSwG1gl2ren9nq2OWXyyOq7U2DmeuzCbnledUlFz2LlL3DTMQezpwMXSYwzD3yjzBinViZpwpB6QKLMQ706_2-QZ3_7KnmG24gvSjD1o6mWRdqXBuMnPNJluSSzZNM6NwIINwqnblpm42nnI4nO5iGDbyq2VynFia49tQgwhG4woGWrr1CIonMaH9OUIebRZpkWDuRJoe8L7_ofaIBFV4g.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Cvd0UwwopElXm_rXvTr6m-ijK3FlTHcXu8SUwTbRHX86U3JjnnqTkPJK7J6Qh-CeWsmQRHZ2_P7eT2iS1kqw646xDxqht0fEMXIifXTWtU4hK6gqiQEMvyArxaOZ6Ex1uSwG1gl2ren9nq2OWXyyOq7U2DmeuzCbnledUlFz2LlL3DTMQezpwMXSYwzD3yjzBinViZpwpB6QKLMQ706_2-QZ3_7KnmG24gvSjD1o6mWRdqXBuMnPNJluSSzZNM6NwIINwqnblpm42nnI4nO5iGDbyq2VynFia49tQgwhG4woGWrr1CIonMaH9OUIebRZpkWDuRJoe8L7_ofaIBFV4g.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Cvd0UwwopElXm_rXvTr6m-ijK3FlTHcXu8SUwTbRHX86U3JjnnqTkPJK7J6Qh-CeWsmQRHZ2_P7eT2iS1kqw646xDxqht0fEMXIifXTWtU4hK6gqiQEMvyArxaOZ6Ex1uSwG1gl2ren9nq2OWXyyOq7U2DmeuzCbnledUlFz2LlL3DTMQezpwMXSYwzD3yjzBinViZpwpB6QKLMQ706_2-QZ3_7KnmG24gvSjD1o6mWRdqXBuMnPNJluSSzZNM6NwIINwqnblpm42nnI4nO5iGDbyq2VynFia49tQgwhG4woGWrr1CIonMaH9OUIebRZpkWDuRJoe8L7_ofaIBFV4g.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>За этот Porsche предлагали $850 тысяч — и всё равн...</title>
@@ -351,7 +354,7 @@ sochiautoparts.ru
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/I0oYv5SakeKcQsNjq8w_5O-igpyr-TzXL26Q7zwaxaAHGEcuRfFxmi06qbe4aXZDAqzUJ6UmSxiRWMctT70AAA1KlA_M7KkzPY3zfoZDdHPNAeGRPQaDr01bHfe07Dbre92iZwXqEmx2M-dyw_iqTa9gdtuGzp0jciorItcBcASmw8Gm39FWDNE5qaIOfBQm2OKFlCN2sKsNSsK4S52yP_qLbfDhHPn4V5hF_EePs3dYuFFjeKkr11-pQDE7k1QgQe1QscDVN_LdB9UL9qRaq_XXjS6DEbb04dXB7D9NSd7tRsr_yqDzi11_JUfZiVeTiiSrvUw-noCVVQoFRG6e5A.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/I0oYv5SakeKcQsNjq8w_5O-igpyr-TzXL26Q7zwaxaAHGEcuRfFxmi06qbe4aXZDAqzUJ6UmSxiRWMctT70AAA1KlA_M7KkzPY3zfoZDdHPNAeGRPQaDr01bHfe07Dbre92iZwXqEmx2M-dyw_iqTa9gdtuGzp0jciorItcBcASmw8Gm39FWDNE5qaIOfBQm2OKFlCN2sKsNSsK4S52yP_qLbfDhHPn4V5hF_EePs3dYuFFjeKkr11-pQDE7k1QgQe1QscDVN_LdB9UL9qRaq_XXjS6DEbb04dXB7D9NSd7tRsr_yqDzi11_JUfZiVeTiiSrvUw-noCVVQoFRG6e5A.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/I0oYv5SakeKcQsNjq8w_5O-igpyr-TzXL26Q7zwaxaAHGEcuRfFxmi06qbe4aXZDAqzUJ6UmSxiRWMctT70AAA1KlA_M7KkzPY3zfoZDdHPNAeGRPQaDr01bHfe07Dbre92iZwXqEmx2M-dyw_iqTa9gdtuGzp0jciorItcBcASmw8Gm39FWDNE5qaIOfBQm2OKFlCN2sKsNSsK4S52yP_qLbfDhHPn4V5hF_EePs3dYuFFjeKkr11-pQDE7k1QgQe1QscDVN_LdB9UL9qRaq_XXjS6DEbb04dXB7D9NSd7tRsr_yqDzi11_JUfZiVeTiiSrvUw-noCVVQoFRG6e5A.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Ford вернул себе первое место Нюрбургринга среди а...</title>
@@ -368,7 +371,7 @@ sochiautoparts.ru
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/D0NEBbnTXCs8LgP5Nn8m6udsyx7aOLxITOVMFdUfSCZjCcAwCDUj_qs2rJxbmmv62VJZ2EzOkVRWbKS6GUEBHdkhMYERh2uWqRcVRueBI51YJgWiVbA6EAj3clzpP6HUONJCrLPgpKgurYV5kzNh2eX3BAlIDUJqKqgCLSGSwVfmn3h0nbQ5fzWiJGf_HfSk_UhPyuPkCzI1yTbumVbPiED1wnMlZ3fxEjoqaXawNuuMSJrRZb_KPYkccoiW4yNYb1EopiTULL_TVW0SRCUAGpjakP6NmhYVjUxp2jXvycyBSfmy4yE7ylb0iBnkNneGAz5BTvMTZaSeh-0x_wGj2w.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/D0NEBbnTXCs8LgP5Nn8m6udsyx7aOLxITOVMFdUfSCZjCcAwCDUj_qs2rJxbmmv62VJZ2EzOkVRWbKS6GUEBHdkhMYERh2uWqRcVRueBI51YJgWiVbA6EAj3clzpP6HUONJCrLPgpKgurYV5kzNh2eX3BAlIDUJqKqgCLSGSwVfmn3h0nbQ5fzWiJGf_HfSk_UhPyuPkCzI1yTbumVbPiED1wnMlZ3fxEjoqaXawNuuMSJrRZb_KPYkccoiW4yNYb1EopiTULL_TVW0SRCUAGpjakP6NmhYVjUxp2jXvycyBSfmy4yE7ylb0iBnkNneGAz5BTvMTZaSeh-0x_wGj2w.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/D0NEBbnTXCs8LgP5Nn8m6udsyx7aOLxITOVMFdUfSCZjCcAwCDUj_qs2rJxbmmv62VJZ2EzOkVRWbKS6GUEBHdkhMYERh2uWqRcVRueBI51YJgWiVbA6EAj3clzpP6HUONJCrLPgpKgurYV5kzNh2eX3BAlIDUJqKqgCLSGSwVfmn3h0nbQ5fzWiJGf_HfSk_UhPyuPkCzI1yTbumVbPiED1wnMlZ3fxEjoqaXawNuuMSJrRZb_KPYkccoiW4yNYb1EopiTULL_TVW0SRCUAGpjakP6NmhYVjUxp2jXvycyBSfmy4yE7ylb0iBnkNneGAz5BTvMTZaSeh-0x_wGj2w.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>BMW Motorsport
@@ -392,7 +395,7 @@ sochiautoparts.r...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86450"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/dbc755ce17.mp4?token=D2Z-XhK0rwoFpIDleJQ5l8FPlTfXSWQyXbFk3fRVAfK3SV_vImezniJrRTBgc35KH1yhUVHOQaY1fk7CdqvThMzM7sTqDqDdykg9W7Lhg7WAvPwF4N-pKdShG36PpurSPgFP4GL3UPbVQq2ESfML9QH79vBN8CvAY2DBOWEt3-FIFFspysmVcw2Gz14-_sMW47s4xRmXvRvk0UO3nzDhOMw2W2oTj2WlIMDhhTBFq55rwL6OmC_iz26zM_M0COGwTuwUJWZGyVVF4wMqtEqXuNC3Mnf_j4257anhAS4Z8vw-MYxdnMJ21oPPFrLUKpNJITA7Jz-AhFmR02g28k24qTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/dbc755ce17.mp4?token=D2Z-XhK0rwoFpIDleJQ5l8FPlTfXSWQyXbFk3fRVAfK3SV_vImezniJrRTBgc35KH1yhUVHOQaY1fk7CdqvThMzM7sTqDqDdykg9W7Lhg7WAvPwF4N-pKdShG36PpurSPgFP4GL3UPbVQq2ESfML9QH79vBN8CvAY2DBOWEt3-FIFFspysmVcw2Gz14-_sMW47s4xRmXvRvk0UO3nzDhOMw2W2oTj2WlIMDhhTBFq55rwL6OmC_iz26zM_M0COGwTuwUJWZGyVVF4wMqtEqXuNC3Mnf_j4257anhAS4Z8vw-MYxdnMJ21oPPFrLUKpNJITA7Jz-AhFmR02g28k24qTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>BMW Concept Speedtop
@@ -414,7 +417,7 @@ sochiautopart...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86449"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/f0db044f82.mp4?token=dbji3RUOC4I1BZ9XRrSCwSQdXpv0w0UOjezmUV5ZxuHAmsfJ8bXTvFqNO3jMG0zXAXInDY02F8TACRSuh6pqSEVUzwAaFB4Lfv8FxzHkuN48BFCzI4KmsRlNNE1OBdm2w91HDXAVAc0Z3QOpddzqj4xPlrJr1uC-DLCQsquA7OL3kdLwOSV_PBnQYPYt1ubaAo0UvgO2jGJ1ECjohtuspBOfkpdJckck7nFL4rFuRYd_NLZnvgmFrmadjlwo4bwuwPbtHPTKnXaZJcWZkK3Rx5wBd98_hRoTOWTz4uTieglD50s9l2l777JboUvvom4RDY13BZ57EJsQlcaJJDvj2A" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/f0db044f82.mp4?token=dbji3RUOC4I1BZ9XRrSCwSQdXpv0w0UOjezmUV5ZxuHAmsfJ8bXTvFqNO3jMG0zXAXInDY02F8TACRSuh6pqSEVUzwAaFB4Lfv8FxzHkuN48BFCzI4KmsRlNNE1OBdm2w91HDXAVAc0Z3QOpddzqj4xPlrJr1uC-DLCQsquA7OL3kdLwOSV_PBnQYPYt1ubaAo0UvgO2jGJ1ECjohtuspBOfkpdJckck7nFL4rFuRYd_NLZnvgmFrmadjlwo4bwuwPbtHPTKnXaZJcWZkK3Rx5wBd98_hRoTOWTz4uTieglD50s9l2l777JboUvvom4RDY13BZ57EJsQlcaJJDvj2A" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Чанган говорили они...
@@ -436,7 +439,7 @@ sochiautopa...</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86448"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/349e77ebb9.mp4?token=Bezj38LCP65CyDxC3YaD1OFqPWbqEH2S0xJFMBDud4ifCxB57L70RmbfLmkjcBerRT6tVHbItDCwhTwp0fXo8N24GUPgDIODfjY3rR3jEJB91hPBpFSVFAsJ4702gsfWtPLtUOpdhG-CXDchKaR_UyzRmozBM0OHvsG0JBiySO4XpzISEvWOixla6IU8zrw-0Qx-Fz7B3pTzI_MsQGbMKmFekpEZh_d5i6UldFEKVkAr9051ZysvXfCOtbpHi3ygpfOHtFjEM8dH2ma38mPeZf2e98vrVfcls46fZvso4ITTSv_cp7bXC4Dja-lQZL6IIlxhxHstUrAJY9aFhZyXKg" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/349e77ebb9.mp4?token=Bezj38LCP65CyDxC3YaD1OFqPWbqEH2S0xJFMBDud4ifCxB57L70RmbfLmkjcBerRT6tVHbItDCwhTwp0fXo8N24GUPgDIODfjY3rR3jEJB91hPBpFSVFAsJ4702gsfWtPLtUOpdhG-CXDchKaR_UyzRmozBM0OHvsG0JBiySO4XpzISEvWOixla6IU8zrw-0Qx-Fz7B3pTzI_MsQGbMKmFekpEZh_d5i6UldFEKVkAr9051ZysvXfCOtbpHi3ygpfOHtFjEM8dH2ma38mPeZf2e98vrVfcls46fZvso4ITTSv_cp7bXC4Dja-lQZL6IIlxhxHstUrAJY9aFhZyXKg" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>BRABUS 900 XLP 6x6
@@ -458,7 +461,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86447"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/e29bd55f68.mp4?token=MEGAufgRWKm6xXVJMoj6GRqOC0h3DNz_s5I8EPe_cV0Hm_Y_M2lbrKVnRJhVospY4uY9REv2AJllewk7bUEZSYc8DHC-dfyUFkcdZN_01KA0DMyoyTnmCEbERIVPYcUU9US3JrI5G03SK5kCJWVQqK0HBPu76lkF-al5A9mvUcEn3rTdSt16ovZR-p7Hzo8NDizYUyyTVsXTec9TcRDA_BkZNp2E8EsP8AcggLyJHfFcPwAiqPbPZpKbEB1I2FCIxJT_auMDi3B3VFJeTNqY7F2fmQbCmOpV_13UE8a8--hfLVJwN5WnK-VuNN5B4JyYR4-M2JN6S02UEWbnnDwlEw" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/e29bd55f68.mp4?token=MEGAufgRWKm6xXVJMoj6GRqOC0h3DNz_s5I8EPe_cV0Hm_Y_M2lbrKVnRJhVospY4uY9REv2AJllewk7bUEZSYc8DHC-dfyUFkcdZN_01KA0DMyoyTnmCEbERIVPYcUU9US3JrI5G03SK5kCJWVQqK0HBPu76lkF-al5A9mvUcEn3rTdSt16ovZR-p7Hzo8NDizYUyyTVsXTec9TcRDA_BkZNp2E8EsP8AcggLyJHfFcPwAiqPbPZpKbEB1I2FCIxJT_auMDi3B3VFJeTNqY7F2fmQbCmOpV_13UE8a8--hfLVJwN5WnK-VuNN5B4JyYR4-M2JN6S02UEWbnnDwlEw" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Lexus RZ 550e F SPORT, цена которого начинается от...</title>
@@ -476,7 +479,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 <media:player url="https://t.me/s/sochiautoparts/86446"/>
 </media:content>
-<enclosure url="https://cdn4.telesco.pe/file/a3f2a70be8.mp4?token=Hhj5YCXKZe2SLYpWnTJ6fNqAWz5MYgJ5iE4dNcqTrMMPz52XdutPKoUlpNf8i0S553xS5jmIS5-ifTKpoulm3DqvCRsyLbjAMBTpu0V9uE9CIFcMOlXlme1RF4V8aEgtZsdgg3IL_tXk4FwaU2eAq5i3aFgI4xI-IKcFgdwhwg75x5RWMHN7d6RcQi7vyjC2b1Kxz2SK36muCBAB_P3yuvAuWAQIQlvmbLgSk42beOqAKtdfIuTvwCtwXyWWMVHkZbPL9ePaCuf6A2OrB7we7J2H5pm78S-vG5bsZv9s3Oal2uvWnjqUxMEC6ueDPbG3XtHKx6w3Yr50Hd409GwJjA" type="video/mp4" />
+<enclosure url="https://cdn4.telesco.pe/file/a3f2a70be8.mp4?token=Hhj5YCXKZe2SLYpWnTJ6fNqAWz5MYgJ5iE4dNcqTrMMPz52XdutPKoUlpNf8i0S553xS5jmIS5-ifTKpoulm3DqvCRsyLbjAMBTpu0V9uE9CIFcMOlXlme1RF4V8aEgtZsdgg3IL_tXk4FwaU2eAq5i3aFgI4xI-IKcFgdwhwg75x5RWMHN7d6RcQi7vyjC2b1Kxz2SK36muCBAB_P3yuvAuWAQIQlvmbLgSk42beOqAKtdfIuTvwCtwXyWWMVHkZbPL9ePaCuf6A2OrB7we7J2H5pm78S-vG5bsZv9s3Oal2uvWnjqUxMEC6ueDPbG3XtHKx6w3Yr50Hd409GwJjA" type="video/mp4" length="0"/>
 </item>
 <item>
 <title>Готовящийся к выпуску седан Audi RS6 буксирует Aud...</title>
@@ -508,7 +511,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Ou1JBbOJiEdnVYQntSOOWnT3iFvyDZpVQRTWrrC3bAokXOpvsOIRw0yvsb5dnoTNMbWWZyDcu4SXtsNxfLqUxtucK-td9jDpRy1Bs5Pzm0kZQs_FJpQK9-NJL-mQoMAi2z6PaVodkzJFVSJzvMzgY1OrEE0yASI1MMxsjDpim1nJuQq0gZhT3rLO3NuvPrsqu4gbZWlWWLYZKG1Pxqm9V-guguIecFks73V42Eq-ZvEKVVG_cZQD1XDJdR1jQSq7uH2kN_KGBfv8CF_-Xhi8nERYcXZeJCdoh-DFC8oFnLCjz0nNciUH3nSQ8HALjCRaNnsyfN7udplzArp7YMo_bg.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Ou1JBbOJiEdnVYQntSOOWnT3iFvyDZpVQRTWrrC3bAokXOpvsOIRw0yvsb5dnoTNMbWWZyDcu4SXtsNxfLqUxtucK-td9jDpRy1Bs5Pzm0kZQs_FJpQK9-NJL-mQoMAi2z6PaVodkzJFVSJzvMzgY1OrEE0yASI1MMxsjDpim1nJuQq0gZhT3rLO3NuvPrsqu4gbZWlWWLYZKG1Pxqm9V-guguIecFks73V42Eq-ZvEKVVG_cZQD1XDJdR1jQSq7uH2kN_KGBfv8CF_-Xhi8nERYcXZeJCdoh-DFC8oFnLCjz0nNciUH3nSQ8HALjCRaNnsyfN7udplzArp7YMo_bg.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Ou1JBbOJiEdnVYQntSOOWnT3iFvyDZpVQRTWrrC3bAokXOpvsOIRw0yvsb5dnoTNMbWWZyDcu4SXtsNxfLqUxtucK-td9jDpRy1Bs5Pzm0kZQs_FJpQK9-NJL-mQoMAi2z6PaVodkzJFVSJzvMzgY1OrEE0yASI1MMxsjDpim1nJuQq0gZhT3rLO3NuvPrsqu4gbZWlWWLYZKG1Pxqm9V-guguIecFks73V42Eq-ZvEKVVG_cZQD1XDJdR1jQSq7uH2kN_KGBfv8CF_-Xhi8nERYcXZeJCdoh-DFC8oFnLCjz0nNciUH3nSQ8HALjCRaNnsyfN7udplzArp7YMo_bg.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Kia и Genesis отзывают в США из-за риска утечки то...</title>
@@ -525,7 +528,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Eu3RA01V6m24jC7n9R7NtBVTaxLsHOUPATcG-erntqLhtdXJb-JYlmGqWywicbNS6XYRXrfrvHpjhu3veVpDMQ6uk_zXwImTQKo3x58v9G0N62oVC9o4deFRTXWVWn4NVLQr7lXuCEGiNpIEvsa3KEYJheuzu_PdHUcmbYUxvToBcmtA9uP3eFKGTD0k1ZkOLi1gE5leXK566MQ1SHOb17yJImOJGATfJPspEPVwGm56qJnS5wWXb3GAiB-lU5gk4e54Ry22HHm21sN_DkcCCZue-t8Y4QHABwsf5Xa9ZxmK3jk4l0EHdLpF7YZOxr36EAlQXtyySd9k6hDyCkvvtw.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Eu3RA01V6m24jC7n9R7NtBVTaxLsHOUPATcG-erntqLhtdXJb-JYlmGqWywicbNS6XYRXrfrvHpjhu3veVpDMQ6uk_zXwImTQKo3x58v9G0N62oVC9o4deFRTXWVWn4NVLQr7lXuCEGiNpIEvsa3KEYJheuzu_PdHUcmbYUxvToBcmtA9uP3eFKGTD0k1ZkOLi1gE5leXK566MQ1SHOb17yJImOJGATfJPspEPVwGm56qJnS5wWXb3GAiB-lU5gk4e54Ry22HHm21sN_DkcCCZue-t8Y4QHABwsf5Xa9ZxmK3jk4l0EHdLpF7YZOxr36EAlQXtyySd9k6hDyCkvvtw.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Eu3RA01V6m24jC7n9R7NtBVTaxLsHOUPATcG-erntqLhtdXJb-JYlmGqWywicbNS6XYRXrfrvHpjhu3veVpDMQ6uk_zXwImTQKo3x58v9G0N62oVC9o4deFRTXWVWn4NVLQr7lXuCEGiNpIEvsa3KEYJheuzu_PdHUcmbYUxvToBcmtA9uP3eFKGTD0k1ZkOLi1gE5leXK566MQ1SHOb17yJImOJGATfJPspEPVwGm56qJnS5wWXb3GAiB-lU5gk4e54Ry22HHm21sN_DkcCCZue-t8Y4QHABwsf5Xa9ZxmK3jk4l0EHdLpF7YZOxr36EAlQXtyySd9k6hDyCkvvtw.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Audi готовит 640-сильный RS Q5
@@ -548,7 +551,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/dYyN-Bba46yTuKTrufDBI2-BLojfUOQ6Irj1zf2gE3D7EkJY-kcCLIc4jn-XmqkEMgq4nhqcKaztbrXt_pIsgViZ5Sr0cGVYBbm1kXtDa-y0VTB1mALgwrLfCK3pGwi9xt7-fvCeukgwi0IC8dgsLRzQZ1OID09AYsKr_41m_0TkWeltdvqeN31z3fiMfHh49oQXrx7ovfaqaCXpIIWE0ELd4tBl5SDcGz4jwDviHJutV14pNtH7xEKLq42xr70NlZrCrE2DEIKkbVzfzK9wWU2R3vznCX14vGXrvnFHBZhlfyK_V728C0zgJ3XmJCAFEs857lCMGeYQlfja1o_yDw.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/dYyN-Bba46yTuKTrufDBI2-BLojfUOQ6Irj1zf2gE3D7EkJY-kcCLIc4jn-XmqkEMgq4nhqcKaztbrXt_pIsgViZ5Sr0cGVYBbm1kXtDa-y0VTB1mALgwrLfCK3pGwi9xt7-fvCeukgwi0IC8dgsLRzQZ1OID09AYsKr_41m_0TkWeltdvqeN31z3fiMfHh49oQXrx7ovfaqaCXpIIWE0ELd4tBl5SDcGz4jwDviHJutV14pNtH7xEKLq42xr70NlZrCrE2DEIKkbVzfzK9wWU2R3vznCX14vGXrvnFHBZhlfyK_V728C0zgJ3XmJCAFEs857lCMGeYQlfja1o_yDw.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/dYyN-Bba46yTuKTrufDBI2-BLojfUOQ6Irj1zf2gE3D7EkJY-kcCLIc4jn-XmqkEMgq4nhqcKaztbrXt_pIsgViZ5Sr0cGVYBbm1kXtDa-y0VTB1mALgwrLfCK3pGwi9xt7-fvCeukgwi0IC8dgsLRzQZ1OID09AYsKr_41m_0TkWeltdvqeN31z3fiMfHh49oQXrx7ovfaqaCXpIIWE0ELd4tBl5SDcGz4jwDviHJutV14pNtH7xEKLq42xr70NlZrCrE2DEIKkbVzfzK9wWU2R3vznCX14vGXrvnFHBZhlfyK_V728C0zgJ3XmJCAFEs857lCMGeYQlfja1o_yDw.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Pirelli готовит подорожание шин из-за ближневосточ...</title>
@@ -565,7 +568,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/Gav611cfawFM78jxgRYKcL384xeZ1AZNe8VzLuZ3oDJfdPYgPgFIby3gBuVf8sDx3Y2Ei241EjySRvhT_BUHU-P1VLXk1BrqVgQI4FlQoDaAqRfuljkE_SaCcuehiWg3yNKtG_NmKp4azNnCyKD9G4dZ4MJAKmbsYyayZfn5ZKo88Y63uyv1wxGaUtTwGQgv9WguSHp3kwm8R1cM4umom3hgSk4Y7TyrHmunW7REMTwjXKdH8uguCyn8rjpxJ3mU3i5Q-PRcpdRTjtKZxCH3EuL4Zdt3-ytqaPmqfM3KYwP2v_9Pkk_zhMIy0qj49S7emP_xHxU1hppPIM6c1T5BDQ.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/Gav611cfawFM78jxgRYKcL384xeZ1AZNe8VzLuZ3oDJfdPYgPgFIby3gBuVf8sDx3Y2Ei241EjySRvhT_BUHU-P1VLXk1BrqVgQI4FlQoDaAqRfuljkE_SaCcuehiWg3yNKtG_NmKp4azNnCyKD9G4dZ4MJAKmbsYyayZfn5ZKo88Y63uyv1wxGaUtTwGQgv9WguSHp3kwm8R1cM4umom3hgSk4Y7TyrHmunW7REMTwjXKdH8uguCyn8rjpxJ3mU3i5Q-PRcpdRTjtKZxCH3EuL4Zdt3-ytqaPmqfM3KYwP2v_9Pkk_zhMIy0qj49S7emP_xHxU1hppPIM6c1T5BDQ.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/Gav611cfawFM78jxgRYKcL384xeZ1AZNe8VzLuZ3oDJfdPYgPgFIby3gBuVf8sDx3Y2Ei241EjySRvhT_BUHU-P1VLXk1BrqVgQI4FlQoDaAqRfuljkE_SaCcuehiWg3yNKtG_NmKp4azNnCyKD9G4dZ4MJAKmbsYyayZfn5ZKo88Y63uyv1wxGaUtTwGQgv9WguSHp3kwm8R1cM4umom3hgSk4Y7TyrHmunW7REMTwjXKdH8uguCyn8rjpxJ3mU3i5Q-PRcpdRTjtKZxCH3EuL4Zdt3-ytqaPmqfM3KYwP2v_9Pkk_zhMIy0qj49S7emP_xHxU1hppPIM6c1T5BDQ.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>Zeekr 8X выходит на рынок: 1400 л.с. и 410 км на э...</title>
@@ -582,7 +585,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/la8sBQnf9em8qT3SHKX_8-cEYZ59CvtQoJOuWE1Qane4HaPineE6MCbmOiJrTezpC_81IESUxR9E2xbuCH58IKQuhg5ehihv1nn7Tq2WH-51bN9bcvThNboOgHZJKmQlv65ng7zDxTDgKh0M4YIJ_S_moI95248VPU_tjLYwLNBS0IrA7Akt-9ODczemMbEgohzjf6PuTvD_tzr6CuA4Youg2TuFVGM0CoQZrOIgZpI2X_CHM-XcXMs0RzrFLNfeN_n9Ev-Yv-uU52SlfWk0AfpmvskIYqp3r2PMpDp7EsUCfyNSEt5_MxpJUIbhot8zipc60BNK-b8YLvfOX-Q1Jg.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/la8sBQnf9em8qT3SHKX_8-cEYZ59CvtQoJOuWE1Qane4HaPineE6MCbmOiJrTezpC_81IESUxR9E2xbuCH58IKQuhg5ehihv1nn7Tq2WH-51bN9bcvThNboOgHZJKmQlv65ng7zDxTDgKh0M4YIJ_S_moI95248VPU_tjLYwLNBS0IrA7Akt-9ODczemMbEgohzjf6PuTvD_tzr6CuA4Youg2TuFVGM0CoQZrOIgZpI2X_CHM-XcXMs0RzrFLNfeN_n9Ev-Yv-uU52SlfWk0AfpmvskIYqp3r2PMpDp7EsUCfyNSEt5_MxpJUIbhot8zipc60BNK-b8YLvfOX-Q1Jg.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/la8sBQnf9em8qT3SHKX_8-cEYZ59CvtQoJOuWE1Qane4HaPineE6MCbmOiJrTezpC_81IESUxR9E2xbuCH58IKQuhg5ehihv1nn7Tq2WH-51bN9bcvThNboOgHZJKmQlv65ng7zDxTDgKh0M4YIJ_S_moI95248VPU_tjLYwLNBS0IrA7Akt-9ODczemMbEgohzjf6PuTvD_tzr6CuA4Youg2TuFVGM0CoQZrOIgZpI2X_CHM-XcXMs0RzrFLNfeN_n9Ev-Yv-uU52SlfWk0AfpmvskIYqp3r2PMpDp7EsUCfyNSEt5_MxpJUIbhot8zipc60BNK-b8YLvfOX-Q1Jg.jpg" type="image/jpeg" length="0"/>
 </item>
 <item>
 <title>В США началось производство нового Infiniti QX65
@@ -601,7 +604,7 @@ sochiautoparts....</media:title>
 <media:credit>SOCHIAUTOPARTS</media:credit>
 </media:content>
 <media:thumbnail url="https://cdn4.telesco.pe/file/XMdsTbHXNzDEg1Em92KYwHc5tU0fkWly8jek1sGTK7LTrlUbnrNtrbMyfKdsLfe8lTSVn0fjx-IsdCNmF6Iji8loJ2b3MXcrqPK__GRTviwnkeS8P-BXQLsbCZGv4TXoB20KTBU-WfmzuYJNCKITo7Vo62aQXJ0WGAWny0DHXefI3XNyqFuDceoaNcdqQXCUtXrPHH0mby79mICVGOioKK78DBjkn0-Elzoci3JE1bfLy2XTWMr1FdHiY3Q74aA8nDR12Prxk2al1o-CPCQYZVJBoUGq-B3g2UUcRlGbkKF3HpTt449VeTyELUH6tUJhg8_bK73DLdof5WAvjVDPFw.jpg" width="800" height="600"/>
-<enclosure url="https://cdn4.telesco.pe/file/XMdsTbHXNzDEg1Em92KYwHc5tU0fkWly8jek1sGTK7LTrlUbnrNtrbMyfKdsLfe8lTSVn0fjx-IsdCNmF6Iji8loJ2b3MXcrqPK__GRTviwnkeS8P-BXQLsbCZGv4TXoB20KTBU-WfmzuYJNCKITo7Vo62aQXJ0WGAWny0DHXefI3XNyqFuDceoaNcdqQXCUtXrPHH0mby79mICVGOioKK78DBjkn0-Elzoci3JE1bfLy2XTWMr1FdHiY3Q74aA8nDR12Prxk2al1o-CPCQYZVJBoUGq-B3g2UUcRlGbkKF3HpTt449VeTyELUH6tUJhg8_bK73DLdof5WAvjVDPFw.jpg" type="image/jpeg" />
+<enclosure url="https://cdn4.telesco.pe/file/XMdsTbHXNzDEg1Em92KYwHc5tU0fkWly8jek1sGTK7LTrlUbnrNtrbMyfKdsLfe8lTSVn0fjx-IsdCNmF6Iji8loJ2b3MXcrqPK__GRTviwnkeS8P-BXQLsbCZGv4TXoB20KTBU-WfmzuYJNCKITo7Vo62aQXJ0WGAWny0DHXefI3XNyqFuDceoaNcdqQXCUtXrPHH0mby79mICVGOioKK78DBjkn0-Elzoci3JE1bfLy2XTWMr1FdHiY3Q74aA8nDR12Prxk2al1o-CPCQYZVJBoUGq-B3g2UUcRlGbkKF3HpTt449VeTyELUH6tUJhg8_bK73DLdof5WAvjVDPFw.jpg" type="image/jpeg" length="0"/>
 </item>
 </channel>
 </rss>
