@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
 <channel>
 <title>SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</title>
 <link>https://sochiautoparts.ru</link>
 <description>Автомобильные новости, обзоры и тест-драйвы от SOCHIAUTOPARTS. 30 публикаций в архиве.</description>
 <language>ru</language>
-<lastBuildDate>Sun, 19 Apr 2026 13:19:27 GMT</lastBuildDate>
-<pubDate>Sun, 19 Apr 2026 13:19:27 GMT</pubDate>
-<ttl>10</ttl>
-<generator>SOCHIAUTOPARTS Cloudflare Worker v88.5-FIXED-SIGNATURE</generator>
+<lastBuildDate>Sun, 19 Apr 2026 15:23:48 GMT</lastBuildDate>
+<pubDate>Sun, 19 Apr 2026 15:23:48 GMT</pubDate>
+<ttl>60</ttl>
+<generator>SOCHIAUTOPARTS Cloudflare Worker v89.0-SEO-OPTIMIZED</generator>
 <managingEditor>info@sochiautoparts.ru (SOCHIAUTOPARTS)</managingEditor>
 <webMaster>info@sochiautoparts.ru (SOCHIAUTOPARTS)</webMaster>
 <image>
@@ -20,6 +20,9 @@
 </image>
 <copyright>© 2026 SOCHIAUTOPARTS. All rights reserved.</copyright>
 <category>Autos</category>
+<atom:link href="https://sochiautoparts.ru/rss.xml" rel="self" type="application/rss+xml"/>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
 <item>
 <title>Интернет-магазин производителя смазочных материало...</title>
 <link>https://sochiautoparts.ru/post/86497</link>
@@ -504,8 +507,6 @@ sochiautoparts....</media:title>
 <author>SOCHIAUTOPARTS</author>
 <source url="https://sochiautoparts.ru/rss.xml">SOCHIAUTOPARTS - Автомобильные новости, обзоры и тест-драйвы</source>
 <category>готовящийся</category><category>выпуску</category><category>седан</category><category>audi</category><category>rs6</category>
-
-
 </item>
 <item>
 <title>https://goo.su/QRvFB
